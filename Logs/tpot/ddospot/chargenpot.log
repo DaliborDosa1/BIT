@@ -1,0 +1,91 @@
+Full blacklist written: 0 scanners/attackers detected
+Weekly blacklist written: 0 scanners/attackers detected
+Daily blacklist written: 0 scanners/attackers detected
+Restored previous DB state - 0 unique IPs loaded
+ChargenPot starting at 0.0.0.0:19
+Restored previous DB state - 0 unique IPs loaded
+{"time": "2024-11-24 01:57:10.405927", "src_ip": "64.62.197.126", "src_port": 46547, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+chargen received shutdown signal, exiting...
+DB logger received shutdown signal, exiting...
+Blacklist scheduler received shutdown signal, exiting...
+Database flush scheduler received shutdown signal, exiting...
+Full blacklist written: 1 scanners/attackers detected
+Weekly blacklist written: 1 scanners/attackers detected
+Daily blacklist written: 1 scanners/attackers detected
+Restored previous DB state - 1 unique IPs loaded
+ChargenPot starting at 0.0.0.0:19
+Restored previous DB state - 8 unique IPs loaded
+{"time": "2024-11-24 05:35:31.284126", "src_ip": "152.32.143.6", "src_port": 55691, "req_size": 2, "resp_size": 1024, "req_pkt": "AAA="}
+{"time": "2024-11-24 12:20:39.038947", "src_ip": "206.168.35.181", "src_port": 38784, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+{"time": "2024-11-24 12:20:39.963628", "src_ip": "199.45.155.104", "src_port": 55167, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+Full blacklist written: 4 scanners/attackers detected
+Weekly blacklist written: 4 scanners/attackers detected
+Daily blacklist written: 4 scanners/attackers detected
+Full blacklist written: 4 scanners/attackers detected
+Weekly blacklist written: 4 scanners/attackers detected
+Daily blacklist written: 4 scanners/attackers detected
+Full blacklist written: 4 scanners/attackers detected
+Weekly blacklist written: 4 scanners/attackers detected
+Daily blacklist written: 4 scanners/attackers detected
+Full blacklist written: 4 scanners/attackers detected
+Weekly blacklist written: 4 scanners/attackers detected
+Daily blacklist written: 4 scanners/attackers detected
+{"time": "2024-11-25 06:29:15.444387", "src_ip": "64.62.156.82", "src_port": 56135, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+Full blacklist written: 5 scanners/attackers detected
+Weekly blacklist written: 5 scanners/attackers detected
+Daily blacklist written: 3 scanners/attackers detected
+Restored previous DB state - 5 unique IPs loaded
+ChargenPot starting at 0.0.0.0:19
+Restored previous DB state - 38 unique IPs loaded
+{"time": "2024-11-25 06:50:20.807496", "src_ip": "185.94.111.1", "src_port": 41240, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+Full blacklist written: 6 scanners/attackers detected
+Weekly blacklist written: 6 scanners/attackers detected
+Daily blacklist written: 2 scanners/attackers detected
+{"time": "2024-11-26 01:22:04.735416", "src_ip": "64.62.197.174", "src_port": 26689, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+{"time": "2024-11-26 08:12:44.916961", "src_ip": "52.73.169.169", "src_port": 60091, "req_size": 29, "resp_size": 1024, "req_pkt": "R0VUIC8gSFRUUC8xLjENCkhvc3Q6IHd3dw0KDQo="}
+Full blacklist written: 8 scanners/attackers detected
+Weekly blacklist written: 8 scanners/attackers detected
+Daily blacklist written: 2 scanners/attackers detected
+Restored previous DB state - 8 unique IPs loaded
+ChargenPot starting at 0.0.0.0:19
+Restored previous DB state - 70 unique IPs loaded
+{"time": "2024-11-26 08:41:07.580436", "src_ip": "206.168.35.40", "src_port": 64539, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+{"time": "2024-11-26 08:41:13.156110", "src_ip": "206.168.34.197", "src_port": 49056, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+{"time": "2024-11-26 15:04:23.688189", "src_ip": "185.180.141.37", "src_port": 33907, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+{"time": "2024-11-26 15:04:27.437499", "src_ip": "185.180.141.38", "src_port": 55369, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+Full blacklist written: 12 scanners/attackers detected
+Full blacklist written: 12 scanners/attackers detected
+Weekly blacklist written: 12 scanners/attackers detected
+Weekly blacklist written: 12 scanners/attackers detected
+Full blacklist written: 12 scanners/attackers detected
+Weekly blacklist written: 12 scanners/attackers detected
+Full blacklist written: 12 scanners/attackers detected
+Daily blacklist written: 6 scanners/attackers detected
+Daily blacklist written: 6 scanners/attackers detected
+Daily blacklist written: 6 scanners/attackers detected
+Weekly blacklist written: 12 scanners/attackers detected
+Daily blacklist written: 6 scanners/attackers detected
+Full blacklist written: 12 scanners/attackers detected
+Weekly blacklist written: 12 scanners/attackers detected
+Daily blacklist written: 6 scanners/attackers detected
+Full blacklist written: 12 scanners/attackers detected
+Weekly blacklist written: 12 scanners/attackers detected
+Daily blacklist written: 0 scanners/attackers detected
+Restored previous DB state - 12 unique IPs loaded
+ChargenPot starting at 0.0.0.0:19
+Restored previous DB state - 80 unique IPs loaded
+{"time": "2024-11-30 17:03:43.880159", "src_ip": "146.88.241.41", "src_port": 46508, "req_size": 1, "resp_size": 1024, "req_pkt": "YQ=="}
+{"time": "2024-11-30 20:12:14.026712", "src_ip": "206.168.35.69", "src_port": 29123, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+{"time": "2024-11-30 20:12:14.852552", "src_ip": "199.45.155.86", "src_port": 43249, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+{"time": "2024-11-30 22:10:23.744168", "src_ip": "185.94.111.1", "src_port": 42925, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+Full blacklist written: 15 scanners/attackers detected
+Weekly blacklist written: 11 scanners/attackers detected
+Daily blacklist written: 4 scanners/attackers detected
+Restored previous DB state - 15 unique IPs loaded
+ChargenPot starting at 0.0.0.0:19
+Full blacklist written: 15 scanners/attackers detected
+Weekly blacklist written: 11 scanners/attackers detected
+Daily blacklist written: 4 scanners/attackers detected
+Restored previous DB state - 15 unique IPs loaded
+ChargenPot starting at 0.0.0.0:19
+Restored previous DB state - 1379 unique IPs loaded

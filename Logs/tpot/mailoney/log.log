@@ -1,0 +1,147 @@
+{"timestamp": "2024-11-24T02:11:10.000000Z", "src_ip": "45.56.105.19", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T02:11:10.000000Z", "src_ip": "45.56.105.19", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T02:47:16.000000Z", "src_ip": "66.175.213.160", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T02:47:16.000000Z", "src_ip": "66.175.213.160", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T04:09:59.000000Z", "src_ip": "45.33.95.154", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T04:09:59.000000Z", "src_ip": "45.33.95.154", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T04:46:18.000000Z", "src_ip": "66.228.37.34", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T04:46:19.000000Z", "src_ip": "66.228.37.34", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T06:10:16.000000Z", "src_ip": "69.164.214.98", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T06:10:16.000000Z", "src_ip": "69.164.214.98", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T06:47:08.000000Z", "src_ip": "45.79.143.137", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T06:47:08.000000Z", "src_ip": "45.79.143.137", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:09:58.000000Z", "src_ip": "45.56.105.51", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:09:58.000000Z", "src_ip": "45.56.105.51", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:24:22.000000Z", "src_ip": "216.218.206.67", "src_port": 33300, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:24:22.000000Z", "src_ip": "216.218.206.67", "src_port": 33300, "data": "Host: 172.179.243.167:25\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:24:22.000000Z", "src_ip": "216.218.206.67", "src_port": 33300, "data": "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:24:22.000000Z", "src_ip": "216.218.206.67", "src_port": 33300, "data": "Accept: */*\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:24:22.000000Z", "src_ip": "216.218.206.67", "src_port": 33300, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:24:22.000000Z", "src_ip": "216.218.206.67", "src_port": 33300, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:46:12.000000Z", "src_ip": "50.116.63.67", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T08:46:12.000000Z", "src_ip": "50.116.63.67", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T10:10:02.000000Z", "src_ip": "45.33.91.18", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T10:10:02.000000Z", "src_ip": "45.33.91.18", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T12:10:33.000000Z", "src_ip": "172.104.20.239", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T12:10:34.000000Z", "src_ip": "172.104.20.239", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T12:46:17.000000Z", "src_ip": "45.79.168.213", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T12:46:17.000000Z", "src_ip": "45.79.168.213", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T13:54:22.000000Z", "src_ip": "135.148.213.245", "src_port": 47259, "data": "EHLO 172.179.243.167\r", "smtp_input": []}
+{"timestamp": "2024-11-24T14:10:05.000000Z", "src_ip": "45.33.70.241", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T14:10:05.000000Z", "src_ip": "45.33.70.241", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T14:46:26.000000Z", "src_ip": "69.164.213.49", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T14:46:26.000000Z", "src_ip": "69.164.213.49", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T15:47:35.000000Z", "src_ip": "5.196.113.14", "src_port": 58547, "data": "EHLO 172.179.243.167\r", "smtp_input": []}
+{"timestamp": "2024-11-24T16:10:05.000000Z", "src_ip": "45.56.105.47", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T16:10:06.000000Z", "src_ip": "45.56.105.47", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T16:46:06.000000Z", "src_ip": "45.79.175.103", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T16:46:06.000000Z", "src_ip": "45.79.175.103", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T18:10:05.000000Z", "src_ip": "66.228.37.38", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T18:10:05.000000Z", "src_ip": "66.228.37.38", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T18:45:55.000000Z", "src_ip": "104.237.145.207", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T18:45:55.000000Z", "src_ip": "104.237.145.207", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T19:42:54.000000Z", "src_ip": "147.185.132.77", "src_port": 62256, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-11-24T19:42:54.000000Z", "src_ip": "147.185.132.77", "src_port": 62256, "data": "Host: 172.179.243.167:25\r", "smtp_input": []}
+{"timestamp": "2024-11-24T19:42:54.000000Z", "src_ip": "147.185.132.77", "src_port": 62256, "data": "User-Agent: Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com\r", "smtp_input": ["scaninfo@paloaltonetworks.com"]}
+{"timestamp": "2024-11-24T19:42:54.000000Z", "src_ip": "147.185.132.77", "src_port": 62256, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-11-24T19:42:54.000000Z", "src_ip": "147.185.132.77", "src_port": 62256, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-11-24T20:10:39.000000Z", "src_ip": "23.239.9.26", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T20:10:39.000000Z", "src_ip": "23.239.9.26", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T20:45:54.000000Z", "src_ip": "172.104.12.243", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-24T20:45:54.000000Z", "src_ip": "172.104.12.243", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-24T21:02:05.000000Z", "src_ip": "183.6.187.229", "src_port": 4430, "data": "ehlo hello\r", "smtp_input": []}
+{"timestamp": "2024-11-24T21:02:05.000000Z", "src_ip": "183.6.187.229", "src_port": 4430, "data": "help\r", "smtp_input": []}
+{"timestamp": "2024-11-24T21:54:33.000000Z", "src_ip": "40.74.243.117", "src_port": 57891, "data": "EHLO\r", "smtp_input": []}
+{"timestamp": "2024-11-24T22:06:04.000000Z", "src_ip": "40.74.243.117", "src_port": 57968, "data": "HELP\r", "smtp_input": []}
+{"timestamp": "2024-11-25T01:22:34.000000Z", "src_ip": "118.193.32.92", "src_port": 39106, "data": "HELP\r", "smtp_input": []}
+{"timestamp": "2024-11-25T01:31:35.000000Z", "src_ip": "118.193.32.92", "src_port": 43498, "data": "EHLO\r", "smtp_input": []}
+{"timestamp": "2024-11-25T01:38:16.000000Z", "src_ip": "118.193.32.92", "src_port": 38324, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:12.000000Z", "src_ip": "118.193.32.92", "src_port": 38324, "data": "Host: 172.179.243.167:25\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:13.000000Z", "src_ip": "118.193.32.92", "src_port": 38324, "data": "Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:13.000000Z", "src_ip": "118.193.32.92", "src_port": 38324, "data": "User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:13.000000Z", "src_ip": "118.193.32.92", "src_port": 38324, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "57.152.78.69", "src_port": 52160, "data": "MGLNDD_172.179.243.167_25", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "205.210.31.94", "src_port": 65090, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "205.210.31.94", "src_port": 65090, "data": "Host: 172.179.243.167:587\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "205.210.31.94", "src_port": 65090, "data": "User-Agent: Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com\r", "smtp_input": ["scaninfo@paloaltonetworks.com"]}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "205.210.31.94", "src_port": 65090, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "205.210.31.94", "src_port": 65090, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "216.218.206.66", "src_port": 33174, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "216.218.206.66", "src_port": 33174, "data": "Host: 172.179.243.167:25\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "216.218.206.66", "src_port": 33174, "data": "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "216.218.206.66", "src_port": 33174, "data": "Accept: */*\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "216.218.206.66", "src_port": 33174, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "216.218.206.66", "src_port": 33174, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-11-25T06:29:14.000000Z", "src_ip": "40.86.176.117", "src_port": 53066, "data": "EHLO scanworker-Linux\r", "smtp_input": []}
+{"timestamp": "2024-11-25T07:38:23.000000Z", "src_ip": "13.64.193.146", "src_port": 45998, "data": "EHLO scanworker-Linux\r", "smtp_input": []}
+{"timestamp": "2024-11-26T00:51:09.000000Z", "src_ip": "162.216.149.42", "src_port": 63290, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-11-26T00:58:06.000000Z", "src_ip": "162.216.149.42", "src_port": 63290, "data": "Host: 172.179.243.167:25\r", "smtp_input": []}
+{"timestamp": "2024-11-26T01:04:48.000000Z", "src_ip": "162.216.149.42", "src_port": 63290, "data": "User-Agent: Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com\r", "smtp_input": ["scaninfo@paloaltonetworks.com"]}
+{"timestamp": "2024-11-26T01:13:19.000000Z", "src_ip": "162.216.149.42", "src_port": 63290, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-11-26T01:18:35.000000Z", "src_ip": "162.216.149.42", "src_port": 63290, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "198.235.24.30", "src_port": 63826, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "198.235.24.30", "src_port": 63826, "data": "Host: 172.179.243.167:587\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "198.235.24.30", "src_port": 63826, "data": "User-Agent: Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com\r", "smtp_input": ["scaninfo@paloaltonetworks.com"]}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "198.235.24.30", "src_port": 63826, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "198.235.24.30", "src_port": 63826, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "205.210.31.50", "src_port": 61976, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "205.210.31.50", "src_port": 61976, "data": "Host: 172.179.243.167:587\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "205.210.31.50", "src_port": 61976, "data": "User-Agent: Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com\r", "smtp_input": ["scaninfo@paloaltonetworks.com"]}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "205.210.31.50", "src_port": 61976, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:12:41.000000Z", "src_ip": "205.210.31.50", "src_port": 61976, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:39:21.000000Z", "src_ip": "198.74.57.198", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:39:22.000000Z", "src_ip": "198.74.57.198", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:39:56.000000Z", "src_ip": "172.104.31.43", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T08:39:56.000000Z", "src_ip": "172.104.31.43", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T10:46:59.000000Z", "src_ip": "50.116.53.183", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T10:46:59.000000Z", "src_ip": "50.116.53.183", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T10:49:46.000000Z", "src_ip": "45.33.90.248", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T10:49:46.000000Z", "src_ip": "45.33.90.248", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T11:04:07.000000Z", "src_ip": "51.8.223.222", "src_port": 44968, "data": "EHLO scanworker-Linux\r", "smtp_input": []}
+{"timestamp": "2024-11-26T11:29:40.000000Z", "src_ip": "172.168.156.221", "src_port": 44486, "data": "MGLNDD_172.179.243.167_587", "smtp_input": []}
+{"timestamp": "2024-11-26T12:32:23.000000Z", "src_ip": "172.202.158.132", "src_port": 50088, "data": "MGLNDD_172.179.243.167_25", "smtp_input": []}
+{"timestamp": "2024-11-26T12:39:50.000000Z", "src_ip": "173.255.228.42", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T12:39:50.000000Z", "src_ip": "173.255.228.42", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T12:40:43.000000Z", "src_ip": "50.116.53.189", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T12:40:44.000000Z", "src_ip": "50.116.53.189", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T14:25:56.000000Z", "src_ip": "71.6.232.27", "src_port": 37510, "data": "EHLO zx17.quadmetrics.com\r", "smtp_input": []}
+{"timestamp": "2024-11-26T14:39:27.000000Z", "src_ip": "23.92.19.146", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T14:39:27.000000Z", "src_ip": "23.92.19.146", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T14:40:59.000000Z", "src_ip": "45.56.104.243", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T14:40:59.000000Z", "src_ip": "45.56.104.243", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T16:42:41.000000Z", "src_ip": "97.107.141.237", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T16:42:42.000000Z", "src_ip": "97.107.141.237", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T16:44:18.000000Z", "src_ip": "173.255.227.91", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T16:44:18.000000Z", "src_ip": "173.255.227.91", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-11-26T18:41:01.000000Z", "src_ip": "96.126.106.186", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-26T18:43:11.000000Z", "src_ip": "45.79.131.175", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-11-30T21:02:09.000000Z", "src_ip": "52.249.39.87", "src_port": 46204, "data": "MGLNDD_172.179.243.167_587", "smtp_input": []}
+{"timestamp": "2024-12-01T01:20:27.000000Z", "src_ip": "64.62.197.213", "src_port": 24801, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:20:41.000000Z", "src_ip": "64.62.197.213", "src_port": 24801, "data": "Host: 172.179.243.167:25\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:20:59.000000Z", "src_ip": "64.62.197.213", "src_port": 24801, "data": "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:21:02.000000Z", "src_ip": "64.62.197.213", "src_port": 24801, "data": "Accept: */*\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:21:06.000000Z", "src_ip": "64.62.197.213", "src_port": 24801, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:21:14.000000Z", "src_ip": "64.62.197.213", "src_port": 24801, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:50:38.000000Z", "src_ip": "154.212.141.201", "src_port": 45534, "data": "ehlo hello\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:50:40.000000Z", "src_ip": "154.212.141.201", "src_port": 45534, "data": "help\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:50:45.000000Z", "src_ip": "154.212.141.201", "src_port": 45534, "data": "AUTH NTLM TlRMTVNTUAABAAAAB4IIAAAAAAAAAAAAAAAAAAAAAAA=\r", "smtp_input": []}
+{"timestamp": "2024-12-01T01:50:48.000000Z", "src_ip": "154.212.141.201", "src_port": 48266, "data": "EHLO mail.example.com\r", "smtp_input": []}
+{"timestamp": "2024-12-01T02:28:36.000000Z", "src_ip": "96.126.111.62", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-12-01T02:35:18.000000Z", "src_ip": "217.182.186.34", "src_port": 53687, "data": "EHLO 172.179.243.167\r", "smtp_input": []}
+{"timestamp": "2024-12-01T02:39:28.000000Z", "src_ip": "45.79.138.202", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-12-01T04:24:29.000000Z", "src_ip": "198.235.24.135", "src_port": 65156, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-12-01T04:30:46.000000Z", "src_ip": "198.235.24.135", "src_port": 65156, "data": "Host: 172.179.243.167:587\r", "smtp_input": []}
+{"timestamp": "2024-12-01T04:39:06.000000Z", "src_ip": "198.235.24.135", "src_port": 65156, "data": "User-Agent: Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com\r", "smtp_input": ["scaninfo@paloaltonetworks.com"]}
+{"timestamp": "2024-12-01T04:58:23.000000Z", "src_ip": "198.235.24.135", "src_port": 65156, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-12-01T05:07:39.000000Z", "src_ip": "198.235.24.135", "src_port": 65156, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-12-01T05:44:30.000000Z", "src_ip": "147.185.132.132", "src_port": 57934, "data": "GET / HTTP/1.1\r", "smtp_input": []}
+{"timestamp": "2024-12-01T06:10:03.000000Z", "src_ip": "147.185.132.132", "src_port": 57934, "data": "Host: 172.179.243.167:587\r", "smtp_input": []}
+{"timestamp": "2024-12-01T06:38:23.000000Z", "src_ip": "147.185.132.132", "src_port": 57934, "data": "User-Agent: Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com\r", "smtp_input": ["scaninfo@paloaltonetworks.com"]}
+{"timestamp": "2024-12-01T06:56:35.000000Z", "src_ip": "147.185.132.132", "src_port": 57934, "data": "Accept-Encoding: gzip\r", "smtp_input": []}
+{"timestamp": "2024-12-01T07:12:07.000000Z", "src_ip": "147.185.132.132", "src_port": 57934, "data": "\r", "smtp_input": []}
+{"timestamp": "2024-12-01T09:02:59.000000Z", "src_ip": "52.160.32.228", "src_port": 38780, "data": "MGLNDD_172.179.243.167_587", "smtp_input": []}
+{"timestamp": "2024-12-01T09:50:34.000000Z", "src_ip": "4.156.236.229", "src_port": 54874, "data": "MGLNDD_172.179.243.167_25", "smtp_input": []}
+{"timestamp": "2024-12-01T16:26:40.000000Z", "src_ip": "162.216.16.179", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-12-01T16:26:40.000000Z", "src_ip": "162.216.16.179", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}
+{"timestamp": "2024-12-01T16:37:57.000000Z", "src_ip": "66.228.36.47", "src_port": 61000, "data": "EHLO masscan\r", "smtp_input": []}
+{"timestamp": "2024-12-01T16:37:57.000000Z", "src_ip": "66.228.36.47", "src_port": 61000, "data": "STARTTLS\r", "smtp_input": []}

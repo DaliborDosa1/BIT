@@ -1,0 +1,1048 @@
+2024-11-23 23:25:22,296 Config file found!
+2024-11-23 23:25:22,310 Starting Conpot using template: /usr/lib/python3.11/site-packages/conpot/templates/IEC104
+2024-11-23 23:25:22,310 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2024-11-23 23:25:22,741 Serving tar:///usr/lib/python3.11/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2024-11-23 23:25:22,742 Opening path /tmp/conpot for persistent storage of files.
+2024-11-23 23:25:22,755 Initializing Virtual File System at /tmp/conpot/__conpot__udpejajy. Source specified : tar:///usr/lib/python3.11/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2024-11-23 23:25:23,040 Fetched 172.179.243.167 as external ip.
+2024-11-23 23:25:23,114 IEC 104 Server up
+2024-11-23 23:25:23,126 Found and enabled IEC104 protocol.
+2024-11-23 23:25:23,165 Found and enabled snmp protocol.
+2024-11-23 23:25:23,166 No proxy template found. Service will remain unconfigured/stopped.
+2024-11-23 23:25:23,166 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2024-11-23 23:25:26,443 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2024-11-23 23:25:33,303 SNMP server started on: ('0.0.0.0', 161)
+2024-11-23 23:33:13,233 New snmp session from 172.168.40.186 (16a4e5c5-092a-4429-8934-1a926d35d1fa)
+2024-11-23 23:33:13,328 SNMPv1 Get request from ('172.168.40.186', 35836): 1.3.6.1.2.1.1.1.0 
+2024-11-23 23:33:13,328 SNMPv1 Get response to ('172.168.40.186', 35836): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-23 23:33:43,363 Session timed out: 16a4e5c5-092a-4429-8934-1a926d35d1fa
+2024-11-23 23:59:16,924 New snmp session from 209.156.114.2 (ad4e29fe-91e6-4096-91fe-0262c6ceaefb)
+2024-11-23 23:59:16,925 SNMPv1 GetNext request from ('209.156.114.2', 62444): 1.3.6.1.2.1.1.2 
+2024-11-23 23:59:16,925 SNMPv1 GetNext response to ('209.156.114.2', 62444): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-23 23:59:18,542 SNMPv1 GetNext request from ('209.156.114.2', 55075): 1.3.6.1.2.1.1.2 
+2024-11-23 23:59:18,542 SNMPv1 GetNext response to ('209.156.114.2', 55075): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-23 23:59:18,669 SNMPv1 GetNext request from ('209.156.114.2', 55076): 1.3.6.1.2.1.2.2.1.6 
+2024-11-23 23:59:18,669 SNMPv1 GetNext response to ('209.156.114.2', 55076): 1.3.6.1.2.1.2.2.1.6.1 )Å
+2024-11-23 23:59:18,799 SNMPv1 GetNext request from ('209.156.114.2', 55077): 1.3.6.1.2.1.2.2.1.6.1 
+2024-11-23 23:59:18,799 SNMPv1 GetNext response to ('209.156.114.2', 55077): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-23 23:59:18,920 SNMPv1 GetNext request from ('209.156.114.2', 55078): 1.3.6.1.2.1.2.2.1.6.2 
+2024-11-23 23:59:18,921 SNMPv1 GetNext response to ('209.156.114.2', 55078): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-23 23:59:19,029 SNMPv1 GetNext request from ('209.156.114.2', 55079): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-23 23:59:19,029 SNMPv1 GetNext response to ('209.156.114.2', 55079): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-23 23:59:19,132 SNMPv1 GetNext request from ('209.156.114.2', 55080): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-23 23:59:19,133 SNMPv1 GetNext response to ('209.156.114.2', 55080): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-23 23:59:49,166 Session timed out: ad4e29fe-91e6-4096-91fe-0262c6ceaefb
+2024-11-24 01:19:42,233 SNMP Exception: This class is not converted to new architecture
+2024-11-24 03:34:48,027 New snmp session from 96.5.145.5 (c2a058e6-f9c7-4cfe-93b2-7a4a55d720dc)
+2024-11-24 03:34:48,029 SNMPv1 GetNext request from ('96.5.145.5', 58842): 1.3.6.1.2.1.25.3.5.1.1 
+2024-11-24 03:34:48,029 SNMPv1 GetNext response to ('96.5.145.5', 58842): 1.3.6.1.2.1.25.3.5.1.1 
+2024-11-24 03:34:50,074 SNMPv1 GetNext request from ('96.5.145.5', 58842): 1.3.6.1.2.1.25.3.5.1.1 
+2024-11-24 03:34:50,074 SNMPv1 GetNext response to ('96.5.145.5', 58842): 1.3.6.1.2.1.25.3.5.1.1 
+2024-11-24 03:34:52,132 SNMPv1 GetNext request from ('96.5.145.5', 58842): 1.3.6.1.2.1.25.3.5.1.1 
+2024-11-24 03:34:52,132 SNMPv1 GetNext response to ('96.5.145.5', 58842): 1.3.6.1.2.1.25.3.5.1.1 
+2024-11-24 03:35:24,165 Session timed out: c2a058e6-f9c7-4cfe-93b2-7a4a55d720dc
+2024-11-24 03:39:32,892 New snmp session from 71.6.134.234 (48db620f-a4fc-4fcb-a0b7-8e5314f496c8)
+2024-11-24 03:39:32,892 SNMPv2 GetNext request from ('71.6.134.234', 36670): 1.3.6.1.2.1 
+2024-11-24 03:39:32,893 SNMPv2 GetNext response to ('71.6.134.234', 36670): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 03:40:02,917 Session timed out: 48db620f-a4fc-4fcb-a0b7-8e5314f496c8
+2024-11-24 03:47:56,930 New snmp session from 64.62.156.46 (38a11ebb-7dc4-43d2-8cdb-6aad41548d83)
+2024-11-24 03:47:56,932 SNMPv2 Get request from ('64.62.156.46', 28863): 1.3.6.1.2.1.1.1.0 
+2024-11-24 03:47:56,932 SNMPv2 Get response to ('64.62.156.46', 28863): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 03:48:26,966 Session timed out: 38a11ebb-7dc4-43d2-8cdb-6aad41548d83
+2024-11-24 04:01:04,199 Stopping Conpot
+2024-11-24 04:01:05,709 Shutting down File System. Cleaning directories at /tmp/conpot/__conpot__udpejajy
+2024-11-24 04:03:34,619 Config file found!
+2024-11-24 04:03:34,636 Starting Conpot using template: /usr/lib/python3.11/site-packages/conpot/templates/IEC104
+2024-11-24 04:03:34,636 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2024-11-24 04:03:35,333 Serving tar:///usr/lib/python3.11/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2024-11-24 04:03:35,334 Opening path /tmp/conpot for persistent storage of files.
+2024-11-24 04:03:35,335 Initializing Virtual File System at /tmp/conpot/__conpot__5989d2nr. Source specified : tar:///usr/lib/python3.11/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2024-11-24 04:03:35,881 Fetched 172.179.243.167 as external ip.
+2024-11-24 04:03:35,969 IEC 104 Server up
+2024-11-24 04:03:35,980 Found and enabled IEC104 protocol.
+2024-11-24 04:03:36,030 Found and enabled snmp protocol.
+2024-11-24 04:03:36,036 No proxy template found. Service will remain unconfigured/stopped.
+2024-11-24 04:03:36,036 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2024-11-24 04:03:43,576 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2024-11-24 04:03:55,547 SNMP server started on: ('0.0.0.0', 161)
+2024-11-24 04:41:40,852 New snmp session from 64.62.156.40 (ae40a90a-8f82-41c9-babb-f90f0fe9da1f)
+2024-11-24 04:41:40,853 SNMPv1 Get request from ('64.62.156.40', 24715): 1.3.6.1.2.1.1.5.0 
+2024-11-24 04:41:40,853 SNMPv1 Get response to ('64.62.156.40', 24715): 1.3.6.1.2.1.1.5.0 
+2024-11-24 04:42:10,884 Session timed out: ae40a90a-8f82-41c9-babb-f90f0fe9da1f
+2024-11-24 05:20:44,832 SNMP Exception: This class is not converted to new architecture
+2024-11-24 05:24:04,288 New IEC104 session from 67.205.170.59 (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,288 New IEC 104 connection from 67.205.170.59:34980. (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,320 ('67.205.170.59', 34980) ---> u_frame. TESTFR act. (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,321 ('67.205.170.59', 34980) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,436 ('67.205.170.59', 34980) ---> u_frame. STARTDT act. (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,437 ('67.205.170.59', 34980) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,538 ('67.205.170.59', 34980) ---> i_frame C_IC_NA_1 with {'TypeID': 100, 'SQ': 0, 'NoO': 1, 'T': 0, 'PN': 0, 'COT': 6, 'OrigAddr': 0, 'COA': 65535} Objects=[{'IOA': 0, 'QOI': 20}]  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,540 ('67.205.170.59', 34980) <--- i_frame C_IC_NA_1 with {'COT': 7, 'COA': 7720} Objects=[{'QOI': 20}]  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,635 ('67.205.170.59', 34980) <--- i_frame M_SP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 16, 'COA': 7720} Objects=[{'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1314048}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1379584}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1445120}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1576192}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1641728}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2100480}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2166016}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2231552}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2297088}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2362624}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2428160}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2493696}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2559232}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2624768}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2690304}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2755840}]  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,641 ('67.205.170.59', 34980) <--- i_frame M_DP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 10, 'COA': 7720} Objects=[{'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 139520}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 205056}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 270592}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 336128}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 401664}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 467200}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 532736}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 598272}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 663808}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 729344}]  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,647 ('67.205.170.59', 34980) <--- i_frame M_ME_NB_1 with {'SQ': 0, 'COT': 20, 'NoO': 11, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 812032, 'SVA': 103}, {'QDS': <QDS  |>, 'IOA': 877568, 'SVA': 31}, {'QDS': <QDS  |>, 'IOA': 3367936, 'SVA': -49}, {'QDS': <QDS  |>, 'IOA': 7103488, 'SVA': 28871}, {'QDS': <QDS  |>, 'IOA': 7169024, 'SVA': 13781}, {'QDS': <QDS  |>, 'IOA': 11691008, 'SVA': 119}, {'QDS': <QDS  |>, 'IOA': 11756544, 'SVA': 219}, {'QDS': <QDS  |>, 'IOA': 12477440, 'SVA': 1009}, {'QDS': <QDS  |>, 'IOA': 12542976, 'SVA': -2}, {'QDS': <QDS  |>, 'IOA': 12608512, 'SVA': 701}, {'QDS': <QDS  |>, 'IOA': 12674048, 'SVA': 441}]  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,656 ('67.205.170.59', 34980) <--- i_frame M_ME_NC_1 with {'SQ': 0, 'COT': 20, 'NoO': 22, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 224000, 'FPNumber': 16.2}, {'QDS': <QDS  |>, 'IOA': 5073664, 'FPNumber': 15.9}, {'QDS': <QDS  |>, 'IOA': 5139200, 'FPNumber': 512.1}, {'QDS': <QDS  |>, 'IOA': 5204736, 'FPNumber': 433.4}, {'QDS': <QDS  |>, 'IOA': 5925632, 'FPNumber': 344.4}, {'QDS': <QDS  |>, 'IOA': 8547072, 'FPNumber': -0.44013}, {'QDS': <QDS  |>, 'IOA': 8612608, 'FPNumber': 43.0}, {'QDS': <QDS  |>, 'IOA': 8678144, 'FPNumber': 41.2}, {'QDS': <QDS  |>, 'IOA': 9267968, 'FPNumber': 12.1}, {'QDS': <QDS  |>, 'IOA': 13134592, 'FPNumber': 91}, {'QDS': <QDS  |>, 'IOA': 13200128, 'FPNumber': 98.8}, {'QDS': <QDS  |>, 'IOA': 13265664, 'FPNumber': 110}, {'QDS': <QDS  |>, 'IOA': 13331200, 'FPNumber': 85.1}, {'QDS': <QDS  |>, 'IOA': 13396736, 'FPNumber': 85.2}, {'QDS': <QDS  |>, 'IOA': 13462272, 'FPNumber': 410}, {'QDS': <QDS  |>, 'IOA': 13527808, 'FPNumber': 592}, {'QDS': <QDS  |>, 'IOA': 13593344, 'FPNumber': 1.5}, {'QDS': <QDS  |>, 'IOA': 13658880, 'FPNumber': 44.7}, {'QDS': <QDS  |>, 'IOA': 13724416, 'FPNumber': 11.9}, {'QDS': <QDS  |>, 'IOA': 13789952, 'FPNumber': 221.45}, {'QDS': <QDS  |>, 'IOA': 13855488, 'FPNumber': 13.4}, {'QDS': <QDS  |>, 'IOA': 13921024, 'FPNumber': 0.000402}]  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,661 ('67.205.170.59', 34980) <--- i_frame C_IC_NA_1 with {'COT': 10, 'COA': 7720} Objects=[{'QOI': 20}]  (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:04,788 IEC104 Station disconnected. (cc24c10d-1a4a-4631-a52e-961964bc3aaa)
+2024-11-24 05:24:36,819 Session timed out: cc24c10d-1a4a-4631-a52e-961964bc3aaa
+2024-11-24 05:26:06,331 New IEC104 session from 173.230.132.73 (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:06,332 New IEC 104 connection from 173.230.132.73:56232. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:07,833 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:07,903 New IEC 104 connection from 173.230.132.73:49090. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:09,404 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:09,462 New IEC 104 connection from 173.230.132.73:49104. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:10,963 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:11,026 New IEC 104 connection from 173.230.132.73:49116. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:12,527 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:12,596 New IEC 104 connection from 173.230.132.73:49128. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:14,097 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:14,171 New IEC 104 connection from 173.230.132.73:49134. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:14,172 InvalidFieldValue: ('Wrong length for u_frame packet! (%s)', UUID('4ebaf232-6521-45f7-a6d5-1cb20b364d47')). (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:15,672 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:15,735 New IEC 104 connection from 173.230.132.73:49148. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:15,736 InvalidFieldValue: ('Wrong length for s_frame packet! (%s)', UUID('4ebaf232-6521-45f7-a6d5-1cb20b364d47')). (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:17,236 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:17,300 New IEC 104 connection from 173.230.132.73:49164. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:18,799 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:18,862 New IEC 104 connection from 173.230.132.73:34982. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:20,362 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:20,440 New IEC 104 connection from 173.230.132.73:34992. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:21,942 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:22,012 New IEC 104 connection from 173.230.132.73:34996. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:23,513 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:23,570 New IEC 104 connection from 173.230.132.73:34998. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:25,071 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:25,135 New IEC 104 connection from 173.230.132.73:35000. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:26,636 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:26,699 New IEC 104 connection from 173.230.132.73:35006. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:28,200 IEC104 Station disconnected. (4ebaf232-6521-45f7-a6d5-1cb20b364d47)
+2024-11-24 05:26:58,231 Session timed out: 4ebaf232-6521-45f7-a6d5-1cb20b364d47
+2024-11-24 05:27:56,236 New IEC104 session from 157.245.239.186 (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:27:56,237 New IEC 104 connection from 157.245.239.186:47778. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:27:57,738 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:27:57,762 New IEC 104 connection from 157.245.239.186:47794. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:27:59,262 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:27:59,285 New IEC 104 connection from 157.245.239.186:47808. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:00,798 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:00,822 New IEC 104 connection from 157.245.239.186:47812. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:02,323 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:02,347 New IEC 104 connection from 157.245.239.186:51902. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:03,856 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:03,928 New IEC 104 connection from 157.245.239.186:51906. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:05,433 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:05,455 New IEC 104 connection from 157.245.239.186:51912. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:06,960 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:06,983 New IEC 104 connection from 157.245.239.186:51926. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:08,485 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:08,507 New IEC 104 connection from 157.245.239.186:51930. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:10,009 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:10,033 New IEC 104 connection from 157.245.239.186:51946. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:11,535 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:11,564 New IEC 104 connection from 157.245.239.186:51960. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:13,066 InvalidFieldValue: ('Wrong length for u_frame packet! (%s)', UUID('8fe7c892-8d67-46f6-8bcf-e38890613443')). (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:13,066 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:13,090 New IEC 104 connection from 157.245.239.186:41070. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:14,590 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:14,613 New IEC 104 connection from 157.245.239.186:41076. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:16,114 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:16,138 New IEC 104 connection from 157.245.239.186:41078. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:17,638 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:17,661 New IEC 104 connection from 157.245.239.186:41090. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:19,162 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:19,185 New IEC 104 connection from 157.245.239.186:41104. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:20,686 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:20,710 New IEC 104 connection from 157.245.239.186:41120. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:22,222 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:22,247 New IEC 104 connection from 157.245.239.186:41134. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:23,749 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:23,772 New IEC 104 connection from 157.245.239.186:53668. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:25,274 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:25,298 New IEC 104 connection from 157.245.239.186:53684. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:25,299 ('157.245.239.186', 53684) ---> i_frame M_ME_TA_1 with {'TypeID': 10, 'SQ': 0, 'NoO': 70, 'T': 0, 'PN': 1, 'COT': 50, 'OrigAddr': 111, 'COA': 14957} Objects=[{'QDS': <QDS  IV=0x0 NT=0x0 SB=0x1 BL=0x1 Padding=0x5 OV=0x0 |>, 'CP24Time': <CP24Time  Ms=28269 Min=64 |>, 'IOA': 7552032, 'NVA': 28777}, {'load': b'nm>;tag=root'}]  (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:25,300 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('8fe7c892-8d67-46f6-8bcf-e38890613443')). (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:26,799 ('157.245.239.186', 53684) ---> i_frame Raw with {'TypeID': 67, 'SQ': 0, 'NoO': 111, 'T': 0, 'PN': 1, 'COT': 46, 'OrigAddr': 116, 'COA': 25441} Objects=[{'load': b't: <sip:nm@nm>\r\nAccept: application/sdp\r\n\r\n'}]  (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:26,800 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('8fe7c892-8d67-46f6-8bcf-e38890613443')). (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:26,800 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:26,821 New IEC 104 connection from 157.245.239.186:53690. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:28,327 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:28,357 New IEC 104 connection from 157.245.239.186:53702. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:29,870 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:29,894 New IEC 104 connection from 157.245.239.186:53718. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:31,394 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:31,417 New IEC 104 connection from 157.245.239.186:53734. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:32,922 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:32,950 New IEC 104 connection from 157.245.239.186:44284. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:34,462 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:34,485 New IEC 104 connection from 157.245.239.186:44298. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:36,002 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:36,025 New IEC 104 connection from 157.245.239.186:44314. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:37,527 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:37,551 New IEC 104 connection from 157.245.239.186:44330. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:39,053 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:39,075 New IEC 104 connection from 157.245.239.186:44332. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:40,577 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:40,601 New IEC 104 connection from 157.245.239.186:44342. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:42,100 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:42,123 New IEC 104 connection from 157.245.239.186:44354. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:43,625 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:43,648 New IEC 104 connection from 157.245.239.186:59098. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:43,649 ('157.245.239.186', 59098) ---> i_frame Raw with {'TypeID': 112, 'SQ': 0, 'NoO': 0, 'T': 0, 'PN': 0, 'COT': 58, 'OrigAddr': 0, 'COA': 47} Objects=[{'load': b'/\x001\x009\x002\x00.\x001\x00'}]  (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:43,650 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('8fe7c892-8d67-46f6-8bcf-e38890613443')). (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:43,650 ('157.245.239.186', 59098) ---> i_frame   (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:43,651 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('8fe7c892-8d67-46f6-8bcf-e38890613443')). (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:43,697 New IEC 104 connection from 157.245.239.186:59108. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:45,199 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:45,222 New IEC 104 connection from 157.245.239.186:59112. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:46,724 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:46,748 New IEC 104 connection from 157.245.239.186:59124. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:46,799 New IEC 104 connection from 157.245.239.186:59126. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:48,301 ('157.245.239.186', 59126) ---> i_frame b'Vista'  (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:48,301 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('8fe7c892-8d67-46f6-8bcf-e38890613443')). (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:48,324 New IEC 104 connection from 157.245.239.186:59138. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:49,826 InvalidFieldValue: ('Wrong length for u_frame packet! (%s)', UUID('8fe7c892-8d67-46f6-8bcf-e38890613443')). (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:49,827 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:49,849 New IEC 104 connection from 157.245.239.186:59144. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:51,351 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:51,374 New IEC 104 connection from 157.245.239.186:59156. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:52,876 IEC104 Station disconnected. (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:53,651 ('157.245.239.186', 59098) <--- s_frame 0x68 0x4 0x1 0x0 0x0 0x0  (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:28:58,303 ('157.245.239.186', 59126) <--- s_frame 0x68 0x4 0x1 0x0 0x0 0x0  (8fe7c892-8d67-46f6-8bcf-e38890613443)
+2024-11-24 05:29:24,906 Session timed out: 8fe7c892-8d67-46f6-8bcf-e38890613443
+2024-11-24 06:15:26,887 New snmp session from 198.235.24.143 (e22f33c2-b3c5-421d-af6b-a40a48f2d639)
+2024-11-24 06:15:26,888 SNMPv2 GetNext request from ('198.235.24.143', 56565): 1.3.6.1.2.1 
+2024-11-24 06:15:26,888 SNMPv2 GetNext response to ('198.235.24.143', 56565): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 06:15:56,918 Session timed out: e22f33c2-b3c5-421d-af6b-a40a48f2d639
+2024-11-24 06:25:06,015 New snmp session from 12.208.108.57 (5371e895-37cd-4475-a9f0-d94d8e441868)
+2024-11-24 06:25:06,016 SNMPv1 Get request from ('12.208.108.57', 49920): 1.3.6.1.2.1.1.2.0 
+2024-11-24 06:25:06,017 SNMPv1 Get response to ('12.208.108.57', 49920): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 06:25:06,021 SNMPv1 Get request from ('12.208.108.57', 49920): 1.3.6.1.2.1.1.2.0 
+2024-11-24 06:25:06,021 SNMPv1 Get response to ('12.208.108.57', 49920): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 06:25:06,211 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-24 06:25:06,274 SNMPv1 Get request from ('12.208.108.57', 49920): 1.3.6.1.2.1.1.2.0 
+2024-11-24 06:25:06,274 SNMPv1 Get response to ('12.208.108.57', 49920): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 06:25:06,291 SNMPv1 Get request from ('12.208.108.57', 49920): 1.3.6.1.2.1.25.3.2.1.4.1 
+2024-11-24 06:25:06,291 SNMPv1 Get response to ('12.208.108.57', 49920): 1.3.6.1.2.1.25.3.2.1.4.1 
+2024-11-24 06:25:06,293 SNMPv1 Get request from ('12.208.108.57', 49920): 1.3.6.1.2.1.25.3.2.1.4.1 
+2024-11-24 06:25:06,293 SNMPv1 Get response to ('12.208.108.57', 49920): 1.3.6.1.2.1.25.3.2.1.4.1 
+2024-11-24 06:25:06,424 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-24 06:25:06,431 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-24 06:25:38,323 Session timed out: 5371e895-37cd-4475-a9f0-d94d8e441868
+2024-11-24 07:45:22,906 New IEC104 session from 199.45.154.155 (b8d681f5-d60c-48be-8531-16020a187dc9)
+2024-11-24 07:45:22,907 New IEC 104 connection from 199.45.154.155:48746. (b8d681f5-d60c-48be-8531-16020a187dc9)
+2024-11-24 07:45:23,276 ('199.45.154.155', 48746) ---> u_frame. STARTDT act. (b8d681f5-d60c-48be-8531-16020a187dc9)
+2024-11-24 07:45:23,277 ('199.45.154.155', 48746) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (b8d681f5-d60c-48be-8531-16020a187dc9)
+2024-11-24 07:45:52,937 Session timed out: b8d681f5-d60c-48be-8531-16020a187dc9
+2024-11-24 10:02:21,310 SNMP Exception: This class is not converted to new architecture
+2024-11-24 12:20:31,197 Stopping Conpot
+2024-11-24 12:20:31,821 Shutting down File System. Cleaning directories at /tmp/conpot/__conpot__5989d2nr
+2024-11-24 12:20:44,433 Config file found!
+2024-11-24 12:20:44,439 Starting Conpot using template: /usr/lib/python3.11/site-packages/conpot/templates/IEC104
+2024-11-24 12:20:44,439 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2024-11-24 12:20:44,639 Serving tar:///usr/lib/python3.11/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2024-11-24 12:20:44,640 Opening path /tmp/conpot for persistent storage of files.
+2024-11-24 12:20:44,645 Initializing Virtual File System at /tmp/conpot/__conpot__qy4034b3. Source specified : tar:///usr/lib/python3.11/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2024-11-24 12:20:44,827 Fetched 172.179.243.167 as external ip.
+2024-11-24 12:20:44,887 IEC 104 Server up
+2024-11-24 12:20:44,888 Found and enabled IEC104 protocol.
+2024-11-24 12:20:44,909 Found and enabled snmp protocol.
+2024-11-24 12:20:44,914 No proxy template found. Service will remain unconfigured/stopped.
+2024-11-24 12:20:44,914 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2024-11-24 12:20:48,279 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2024-11-24 12:20:55,528 SNMP server started on: ('0.0.0.0', 161)
+2024-11-24 13:35:14,097 New IEC104 session from 199.45.155.80 (2fc3f209-755f-4620-afc4-a08608d1ea87)
+2024-11-24 13:35:14,098 New IEC 104 connection from 199.45.155.80:46132. (2fc3f209-755f-4620-afc4-a08608d1ea87)
+2024-11-24 13:35:14,211 ('199.45.155.80', 46132) ---> u_frame. STARTDT act. (2fc3f209-755f-4620-afc4-a08608d1ea87)
+2024-11-24 13:35:14,211 ('199.45.155.80', 46132) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (2fc3f209-755f-4620-afc4-a08608d1ea87)
+2024-11-24 13:35:44,127 Session timed out: 2fc3f209-755f-4620-afc4-a08608d1ea87
+2024-11-24 13:56:52,308 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:04:14,249 New snmp session from 87.236.176.132 (f385ac15-8ee1-49cb-966a-fcb80cae6ef3)
+2024-11-24 14:04:14,250 SNMPv2 Get request from ('87.236.176.132', 20821): 1.3.6.1.2.1.1.5.0 
+2024-11-24 14:04:14,250 SNMPv2 Get response to ('87.236.176.132', 20821): 1.3.6.1.2.1.1.5.0 
+2024-11-24 14:04:44,280 Session timed out: f385ac15-8ee1-49cb-966a-fcb80cae6ef3
+2024-11-24 14:05:23,889 New snmp session from 87.236.176.211 (349b2d54-da13-4741-94d4-59f73e96e43a)
+2024-11-24 14:05:23,889 SNMPv2 Get request from ('87.236.176.211', 28688): 1.3.6.1.2.1.1.1.0 
+2024-11-24 14:05:23,890 SNMPv2 Get response to ('87.236.176.211', 28688): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 14:05:24,191 SNMPv2 Get request from ('87.236.176.211', 28688): 1.3.6.1.2.1.1.2.0 
+2024-11-24 14:05:24,191 SNMPv2 Get response to ('87.236.176.211', 28688): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 14:05:24,516 SNMPv2 Get request from ('87.236.176.211', 28688): 1.3.6.1.2.1.1.3.0 
+2024-11-24 14:05:24,516 SNMPv2 Get response to ('87.236.176.211', 28688): 1.3.6.1.2.1.1.3.0 6280
+2024-11-24 14:05:24,854 SNMPv2 Get request from ('87.236.176.211', 28688): 1.3.6.1.2.1.1.4.0 
+2024-11-24 14:05:24,854 SNMPv2 Get response to ('87.236.176.211', 28688): 1.3.6.1.2.1.1.4.0 Corporate IT
+2024-11-24 14:05:25,205 SNMPv2 Get request from ('87.236.176.211', 28688): 1.3.6.1.2.1.1.5.0 
+2024-11-24 14:05:25,205 SNMPv2 Get response to ('87.236.176.211', 28688): 1.3.6.1.2.1.1.5.0 
+2024-11-24 14:05:25,513 SNMPv2 Get request from ('87.236.176.211', 28688): 1.3.6.1.2.1.1.6.0 
+2024-11-24 14:05:25,514 SNMPv2 Get response to ('87.236.176.211', 28688): 1.3.6.1.2.1.1.6.0 BER01, T2E
+2024-11-24 14:05:25,873 SNMPv2 Get request from ('87.236.176.211', 28688): 1.3.6.1.2.1.1.7.0 
+2024-11-24 14:05:25,873 SNMPv2 Get response to ('87.236.176.211', 28688): 1.3.6.1.2.1.1.7.0 72
+2024-11-24 14:05:26,205 SNMPv2 Get request from ('87.236.176.211', 28688): 1.3.6.1.2.1.2.1.0 
+2024-11-24 14:05:26,205 SNMPv2 Get response to ('87.236.176.211', 28688): 1.3.6.1.2.1.2.1.0 1
+2024-11-24 14:05:56,239 Session timed out: 349b2d54-da13-4741-94d4-59f73e96e43a
+2024-11-24 14:32:20,187 New snmp session from 50.190.131.57 (5e1f832a-f33d-4bfb-a7b7-27690b95b6a4)
+2024-11-24 14:32:20,188 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.1.1.0 
+2024-11-24 14:32:20,189 SNMPv2 Get response to ('50.190.131.57', 53905): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 14:32:20,391 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.2.2.1.2 
+2024-11-24 14:32:20,473 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:32:30,489 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:32:40,519 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:32:50,550 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:32:52,424 Session timed out: 5e1f832a-f33d-4bfb-a7b7-27690b95b6a4
+2024-11-24 14:33:00,576 New snmp session from 50.190.131.57 (9bc95c17-fe98-4217-b683-39859f58972d)
+2024-11-24 14:33:00,576 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.2.2.1.5 
+2024-11-24 14:33:00,658 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:33:10,677 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:33:20,702 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:33:30,608 Session timed out: 9bc95c17-fe98-4217-b683-39859f58972d
+2024-11-24 14:33:30,729 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:33:40,747 New snmp session from 50.190.131.57 (8c3f77c6-87a0-49a8-bdd7-43b015ad028a)
+2024-11-24 14:33:40,747 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.2.2.1.7 
+2024-11-24 14:33:40,829 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:33:50,854 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:34:00,883 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:34:10,786 Session timed out: 8c3f77c6-87a0-49a8-bdd7-43b015ad028a
+2024-11-24 14:34:10,912 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:34:20,945 New snmp session from 50.190.131.57 (8c82cb35-59be-46cd-a514-8d4abd241484)
+2024-11-24 14:34:20,945 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.2.2.1.8 
+2024-11-24 14:34:21,026 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:34:31,049 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:34:41,079 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:34:50,974 Session timed out: 8c82cb35-59be-46cd-a514-8d4abd241484
+2024-11-24 14:34:51,112 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:35:01,139 New snmp session from 50.190.131.57 (23979b4b-1f23-41c1-8d25-2dbc8bd30377)
+2024-11-24 14:35:01,140 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.2.2.1.3 
+2024-11-24 14:35:01,227 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:35:11,246 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:35:21,285 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:35:31,173 Session timed out: 23979b4b-1f23-41c1-8d25-2dbc8bd30377
+2024-11-24 14:35:31,304 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:35:41,336 New snmp session from 50.190.131.57 (3cac86ec-ef10-45aa-a1c0-fad634111171)
+2024-11-24 14:35:41,336 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.17.1.4.1.2 
+2024-11-24 14:35:41,337 SNMPv2 Get response to ('50.190.131.57', 53905): 1.3.6.1.2.1.17.1.4.1.2 
+2024-11-24 14:35:41,621 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:35:51,631 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:36:01,662 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:36:11,369 Session timed out: 3cac86ec-ef10-45aa-a1c0-fad634111171
+2024-11-24 14:36:11,697 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:36:21,723 New snmp session from 50.190.131.57 (eb92a5e9-38a4-433d-99fb-b6ada6ae6b8e)
+2024-11-24 14:36:21,723 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.17.4.3.1.2 
+2024-11-24 14:36:21,723 SNMPv2 Get response to ('50.190.131.57', 53905): 1.3.6.1.2.1.17.4.3.1.2 
+2024-11-24 14:36:21,999 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:36:32,017 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:36:42,042 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:36:51,754 Session timed out: eb92a5e9-38a4-433d-99fb-b6ada6ae6b8e
+2024-11-24 14:36:52,070 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:37:02,101 New snmp session from 50.190.131.57 (8dafc2ca-b2b8-4c9e-841e-afb6c96fab46)
+2024-11-24 14:37:02,101 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.17.7.1.2.2.1.2 
+2024-11-24 14:37:02,101 SNMPv2 Get response to ('50.190.131.57', 53905): 1.3.6.1.2.1.17.7.1.2.2.1.2 
+2024-11-24 14:37:02,349 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:37:12,360 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:37:22,393 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:37:32,133 Session timed out: 8dafc2ca-b2b8-4c9e-841e-afb6c96fab46
+2024-11-24 14:37:32,420 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:37:42,452 New snmp session from 50.190.131.57 (aae55f86-0e69-45bb-9625-3a1669548828)
+2024-11-24 14:37:42,453 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.31.1.1.1.1 
+2024-11-24 14:37:42,536 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:37:52,548 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:38:02,572 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:38:12,483 Session timed out: aae55f86-0e69-45bb-9625-3a1669548828
+2024-11-24 14:38:12,610 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:38:22,650 New snmp session from 50.190.131.57 (af6940ef-ede1-42be-9aea-9f0d31859319)
+2024-11-24 14:38:22,651 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.2.2.1.6 
+2024-11-24 14:38:22,733 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:38:32,756 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:38:42,784 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:38:52,684 Session timed out: af6940ef-ede1-42be-9aea-9f0d31859319
+2024-11-24 14:38:52,814 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:39:02,862 New snmp session from 50.190.131.57 (2c6cb6e1-e054-47cf-bf25-cc1744e7c6df)
+2024-11-24 14:39:02,863 SNMPv2 Get request from ('50.190.131.57', 53905): 1.2.840.10006.300.43.1.1.2.1.1 
+2024-11-24 14:39:02,863 SNMPv2 Get response to ('50.190.131.57', 53905): 1.2.840.10006.300.43.1.1.2.1.1 
+2024-11-24 14:39:03,096 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:39:13,126 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:39:23,142 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:39:32,887 Session timed out: 2c6cb6e1-e054-47cf-bf25-cc1744e7c6df
+2024-11-24 14:39:33,175 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:39:43,201 New snmp session from 50.190.131.57 (9b78775a-7516-4ffc-8357-3c041e8021a3)
+2024-11-24 14:39:43,201 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.4.22.1.2 
+2024-11-24 14:39:43,282 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:39:53,302 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:40:03,333 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:40:13,234 Session timed out: 9b78775a-7516-4ffc-8357-3c041e8021a3
+2024-11-24 14:40:13,363 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:40:23,382 New snmp session from 50.190.131.57 (8af90d55-a2d5-4c54-b314-a5073f566fbd)
+2024-11-24 14:40:23,383 SNMPv2 Get request from ('50.190.131.57', 53905): 1.3.6.1.2.1.43 
+2024-11-24 14:40:23,383 SNMPv2 Get response to ('50.190.131.57', 53905): 1.3.6.1.2.1.43 
+2024-11-24 14:40:23,573 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:40:33,596 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:40:43,627 SNMP Exception: This class is not converted to new architecture
+2024-11-24 14:40:53,415 Session timed out: 8af90d55-a2d5-4c54-b314-a5073f566fbd
+2024-11-24 14:40:53,642 SNMP Exception: This class is not converted to new architecture
+2024-11-24 15:02:15,146 New snmp session from 129.222.248.237 (c6919c0a-de25-45be-a400-1a0aba0797d6)
+2024-11-24 15:02:15,147 SNMPv1 GetNext request from ('129.222.248.237', 62210): 1.3.6.1.2.1.1.2 
+2024-11-24 15:02:15,147 SNMPv1 GetNext response to ('129.222.248.237', 62210): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 15:02:16,965 SNMPv1 GetNext request from ('129.222.248.237', 54715): 1.3.6.1.2.1.1.2 
+2024-11-24 15:02:16,965 SNMPv1 GetNext response to ('129.222.248.237', 54715): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 15:02:17,133 SNMPv1 GetNext request from ('129.222.248.237', 36854): 1.3.6.1.2.1.2.2.1.6 
+2024-11-24 15:02:17,133 SNMPv1 GetNext response to ('129.222.248.237', 36854): 1.3.6.1.2.1.2.2.1.6.1 )Å
+2024-11-24 15:02:17,353 SNMPv1 GetNext request from ('129.222.248.237', 55607): 1.3.6.1.2.1.2.2.1.6.1 
+2024-11-24 15:02:17,353 SNMPv1 GetNext response to ('129.222.248.237', 55607): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-24 15:02:17,540 SNMPv1 GetNext request from ('129.222.248.237', 36022): 1.3.6.1.2.1.2.2.1.6.2 
+2024-11-24 15:02:17,540 SNMPv1 GetNext response to ('129.222.248.237', 36022): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-24 15:02:17,682 SNMPv1 GetNext request from ('129.222.248.237', 46412): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-24 15:02:17,684 SNMPv1 GetNext response to ('129.222.248.237', 46412): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-24 15:02:17,868 SNMPv1 GetNext request from ('129.222.248.237', 22280): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-24 15:02:17,868 SNMPv1 GetNext response to ('129.222.248.237', 22280): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-24 15:02:49,899 Session timed out: c6919c0a-de25-45be-a400-1a0aba0797d6
+2024-11-24 15:42:56,839 SNMP Exception: This class is not converted to new architecture
+2024-11-24 16:49:11,424 New IEC104 session from 64.62.197.4 (3cc1f258-9856-42b4-9659-38e3583e87c5)
+2024-11-24 16:49:11,427 New IEC 104 connection from 64.62.197.4:11115. (3cc1f258-9856-42b4-9659-38e3583e87c5)
+2024-11-24 16:49:11,428 ('64.62.197.4', 11115) ---> u_frame. TESTFR act. (3cc1f258-9856-42b4-9659-38e3583e87c5)
+2024-11-24 16:49:11,428 ('64.62.197.4', 11115) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (3cc1f258-9856-42b4-9659-38e3583e87c5)
+2024-11-24 16:49:11,465 IEC104 Station disconnected. (3cc1f258-9856-42b4-9659-38e3583e87c5)
+2024-11-24 16:49:20,737 New IEC104 session from 64.62.197.11 (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:20,737 New IEC 104 connection from 64.62.197.11:45921. (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:21,777 New IEC 104 connection from 64.62.197.11:2091. (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:21,802 ('64.62.197.11', 2091) ---> u_frame. TESTFR act. (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:21,802 ('64.62.197.11', 2091) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:21,900 ('64.62.197.11', 2091) ---> u_frame. STARTDT act. (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:21,901 ('64.62.197.11', 2091) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:22,000 ('64.62.197.11', 2091) ---> i_frame C_IC_NA_1 with {'TypeID': 100, 'SQ': 0, 'NoO': 1, 'T': 0, 'PN': 0, 'COT': 6, 'OrigAddr': 0, 'COA': 65535} Objects=[{'IOA': 0, 'QOI': 20}]  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:22,002 ('64.62.197.11', 2091) <--- i_frame C_IC_NA_1 with {'COT': 7, 'COA': 7720} Objects=[{'QOI': 20}]  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:22,105 ('64.62.197.11', 2091) <--- i_frame M_SP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 16, 'COA': 7720} Objects=[{'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1314048}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1379584}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1445120}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1576192}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1641728}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2100480}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2166016}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2231552}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2297088}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2362624}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2428160}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2493696}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2559232}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2624768}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2690304}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2755840}]  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:22,111 ('64.62.197.11', 2091) <--- i_frame M_DP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 10, 'COA': 7720} Objects=[{'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 139520}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 205056}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 270592}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 336128}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 401664}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 467200}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 532736}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 598272}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 663808}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 729344}]  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:22,117 ('64.62.197.11', 2091) <--- i_frame M_ME_NB_1 with {'SQ': 0, 'COT': 20, 'NoO': 11, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 812032, 'SVA': 103}, {'QDS': <QDS  |>, 'IOA': 877568, 'SVA': 31}, {'QDS': <QDS  |>, 'IOA': 3367936, 'SVA': -49}, {'QDS': <QDS  |>, 'IOA': 7103488, 'SVA': 28871}, {'QDS': <QDS  |>, 'IOA': 7169024, 'SVA': 13781}, {'QDS': <QDS  |>, 'IOA': 11691008, 'SVA': 119}, {'QDS': <QDS  |>, 'IOA': 11756544, 'SVA': 219}, {'QDS': <QDS  |>, 'IOA': 12477440, 'SVA': 1009}, {'QDS': <QDS  |>, 'IOA': 12542976, 'SVA': -2}, {'QDS': <QDS  |>, 'IOA': 12608512, 'SVA': 701}, {'QDS': <QDS  |>, 'IOA': 12674048, 'SVA': 441}]  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:22,125 ('64.62.197.11', 2091) <--- i_frame M_ME_NC_1 with {'SQ': 0, 'COT': 20, 'NoO': 22, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 224000, 'FPNumber': 16.2}, {'QDS': <QDS  |>, 'IOA': 5073664, 'FPNumber': 15.9}, {'QDS': <QDS  |>, 'IOA': 5139200, 'FPNumber': 512.1}, {'QDS': <QDS  |>, 'IOA': 5204736, 'FPNumber': 433.4}, {'QDS': <QDS  |>, 'IOA': 5925632, 'FPNumber': 344.4}, {'QDS': <QDS  |>, 'IOA': 8547072, 'FPNumber': -0.44013}, {'QDS': <QDS  |>, 'IOA': 8612608, 'FPNumber': 43.0}, {'QDS': <QDS  |>, 'IOA': 8678144, 'FPNumber': 41.2}, {'QDS': <QDS  |>, 'IOA': 9267968, 'FPNumber': 12.1}, {'QDS': <QDS  |>, 'IOA': 13134592, 'FPNumber': 91}, {'QDS': <QDS  |>, 'IOA': 13200128, 'FPNumber': 98.8}, {'QDS': <QDS  |>, 'IOA': 13265664, 'FPNumber': 110}, {'QDS': <QDS  |>, 'IOA': 13331200, 'FPNumber': 85.1}, {'QDS': <QDS  |>, 'IOA': 13396736, 'FPNumber': 85.2}, {'QDS': <QDS  |>, 'IOA': 13462272, 'FPNumber': 410}, {'QDS': <QDS  |>, 'IOA': 13527808, 'FPNumber': 592}, {'QDS': <QDS  |>, 'IOA': 13593344, 'FPNumber': 1.5}, {'QDS': <QDS  |>, 'IOA': 13658880, 'FPNumber': 44.7}, {'QDS': <QDS  |>, 'IOA': 13724416, 'FPNumber': 11.9}, {'QDS': <QDS  |>, 'IOA': 13789952, 'FPNumber': 221.45}, {'QDS': <QDS  |>, 'IOA': 13855488, 'FPNumber': 13.4}, {'QDS': <QDS  |>, 'IOA': 13921024, 'FPNumber': 0.000402}]  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:22,130 ('64.62.197.11', 2091) <--- i_frame C_IC_NA_1 with {'COT': 10, 'COA': 7720} Objects=[{'QOI': 20}]  (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:22,200 IEC104 Station disconnected. (7e350cc0-9283-4083-bb6e-a364b3767593)
+2024-11-24 16:49:42,218 Session timed out: 3cc1f258-9856-42b4-9659-38e3583e87c5
+2024-11-24 16:49:52,229 Session timed out: 7e350cc0-9283-4083-bb6e-a364b3767593
+2024-11-24 17:29:31,887 New snmp session from 198.235.24.136 (44b0cb8f-442b-42e4-ae29-ab506a2c4b9f)
+2024-11-24 17:29:31,891 SNMPv1 Get request from ('198.235.24.136', 51705): 1.3.6.1.2.1.1.1.0 
+2024-11-24 17:29:31,892 SNMPv1 Get response to ('198.235.24.136', 51705): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 17:30:03,931 Session timed out: 44b0cb8f-442b-42e4-ae29-ab506a2c4b9f
+2024-11-24 17:50:06,773 New snmp session from 206.168.35.24 (48aa5a5e-93b6-428c-969e-6e5a44939e41)
+2024-11-24 17:50:06,776 SNMPv2 Get request from ('206.168.35.24', 3009): 1.3.6.1.2.1.1.5.0 
+2024-11-24 17:50:06,776 SNMPv2 Get response to ('206.168.35.24', 3009): 1.3.6.1.2.1.1.5.0 
+2024-11-24 17:50:08,098 New snmp session from 199.45.155.107 (8c16a2a8-faaa-4c5c-95f5-4a2d1639c607)
+2024-11-24 17:50:08,099 SNMPv1 Get request from ('199.45.155.107', 48154): 1.3.6.1.2.1.1.1.0 
+2024-11-24 17:50:08,099 SNMPv1 Get response to ('199.45.155.107', 48154): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 17:50:09,906 SNMPv1 Get request from ('199.45.155.107', 48154): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-24 17:50:09,907 SNMPv1 Get response to ('199.45.155.107', 48154): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-24 17:50:10,564 SNMPv1 Get request from ('199.45.155.107', 48154): 1.3.6.1.2.1.2.1.0 
+2024-11-24 17:50:10,564 SNMPv1 Get response to ('199.45.155.107', 48154): 1.3.6.1.2.1.2.1.0 1
+2024-11-24 17:50:12,277 SNMPv2 Get request from ('199.45.155.107', 48154): 1.3.6.1.2.1.1.1.0 
+2024-11-24 17:50:12,278 SNMPv2 Get response to ('199.45.155.107', 48154): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 17:50:12,740 SNMPv2 Get request from ('199.45.155.107', 48154): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-24 17:50:12,740 SNMPv2 Get response to ('199.45.155.107', 48154): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-24 17:50:13,141 SNMPv2 Get request from ('199.45.155.107', 48154): 1.3.6.1.2.1.2.1.0 
+2024-11-24 17:50:13,141 SNMPv2 Get response to ('199.45.155.107', 48154): 1.3.6.1.2.1.2.1.0 1
+2024-11-24 17:50:37,163 Session timed out: 48aa5a5e-93b6-428c-969e-6e5a44939e41
+2024-11-24 17:50:45,171 Session timed out: 8c16a2a8-faaa-4c5c-95f5-4a2d1639c607
+2024-11-24 18:00:41,870 New snmp session from 206.168.34.51 (84e183e0-8571-4515-86f5-85e22c26c5b6)
+2024-11-24 18:00:41,874 SNMPv2 Get request from ('206.168.34.51', 39119): 1.3.6.1.2.1.1.1.0 
+2024-11-24 18:00:41,874 SNMPv2 Get response to ('206.168.34.51', 39119): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 18:00:42,281 SNMPv2 Get request from ('206.168.34.51', 39119): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-24 18:00:42,283 SNMPv2 Get response to ('206.168.34.51', 39119): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-24 18:00:42,595 SNMPv2 Get request from ('206.168.34.51', 39119): 1.3.6.1.2.1.2.1.0 
+2024-11-24 18:00:42,595 SNMPv2 Get response to ('206.168.34.51', 39119): 1.3.6.1.2.1.2.1.0 1
+2024-11-24 18:00:45,298 SNMPv1 Get request from ('206.168.34.51', 39119): 1.3.6.1.2.1.1.1.0 
+2024-11-24 18:00:45,299 SNMPv1 Get response to ('206.168.34.51', 39119): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 18:00:45,521 SNMPv1 Get request from ('206.168.34.51', 39119): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-24 18:00:45,522 SNMPv1 Get response to ('206.168.34.51', 39119): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-24 18:00:45,785 SNMPv1 Get request from ('206.168.34.51', 39119): 1.3.6.1.2.1.2.1.0 
+2024-11-24 18:00:45,785 SNMPv1 Get response to ('206.168.34.51', 39119): 1.3.6.1.2.1.2.1.0 1
+2024-11-24 18:01:15,834 Session timed out: 84e183e0-8571-4515-86f5-85e22c26c5b6
+2024-11-24 18:08:10,409 SNMP Exception: This class is not converted to new architecture
+2024-11-24 18:27:08,003 New snmp session from 209.156.114.2 (5c7b9282-1f57-4856-9acb-da07cd9397b3)
+2024-11-24 18:27:08,005 SNMPv1 GetNext request from ('209.156.114.2', 54702): 1.3.6.1.2.1.1.2 
+2024-11-24 18:27:08,006 SNMPv1 GetNext response to ('209.156.114.2', 54702): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 18:27:09,441 SNMPv1 GetNext request from ('209.156.114.2', 60670): 1.3.6.1.2.1.1.2 
+2024-11-24 18:27:09,441 SNMPv1 GetNext response to ('209.156.114.2', 60670): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 18:27:09,578 SNMPv1 GetNext request from ('209.156.114.2', 60671): 1.3.6.1.2.1.2.2.1.6 
+2024-11-24 18:27:09,578 SNMPv1 GetNext response to ('209.156.114.2', 60671): 1.3.6.1.2.1.2.2.1.6.1 )Å
+2024-11-24 18:27:09,705 SNMPv1 GetNext request from ('209.156.114.2', 60672): 1.3.6.1.2.1.2.2.1.6.1 
+2024-11-24 18:27:09,705 SNMPv1 GetNext response to ('209.156.114.2', 60672): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-24 18:27:09,854 SNMPv1 GetNext request from ('209.156.114.2', 60673): 1.3.6.1.2.1.2.2.1.6.2 
+2024-11-24 18:27:09,854 SNMPv1 GetNext response to ('209.156.114.2', 60673): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-24 18:27:09,980 SNMPv1 GetNext request from ('209.156.114.2', 60674): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-24 18:27:09,980 SNMPv1 GetNext response to ('209.156.114.2', 60674): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-24 18:27:10,132 SNMPv1 GetNext request from ('209.156.114.2', 60675): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-24 18:27:10,132 SNMPv1 GetNext response to ('209.156.114.2', 60675): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-24 18:27:42,164 Session timed out: 5c7b9282-1f57-4856-9acb-da07cd9397b3
+2024-11-24 20:52:13,221 New snmp session from 198.235.24.5 (e3afcf03-2ef6-45e3-838d-3e348c5278ba)
+2024-11-24 20:52:13,225 SNMPv2 GetNext request from ('198.235.24.5', 53817): 1.3.6.1.2.1 
+2024-11-24 20:52:13,226 SNMPv2 GetNext response to ('198.235.24.5', 53817): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-24 20:52:43,261 Session timed out: e3afcf03-2ef6-45e3-838d-3e348c5278ba
+2024-11-24 21:28:05,813 New snmp session from 129.222.248.237 (79bd03c4-d873-48c9-ad06-382220ea31eb)
+2024-11-24 21:28:05,926 SNMPv1 GetNext request from ('129.222.248.237', 59402): 1.3.6.1.2.1.1.2 
+2024-11-24 21:28:05,927 SNMPv1 GetNext response to ('129.222.248.237', 59402): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-24 21:29:08,219 Session timed out: 79bd03c4-d873-48c9-ad06-382220ea31eb
+2024-11-24 22:20:54,492 New IEC104 session from 115.231.78.11 (5d3cf198-ee87-4d77-a754-f6dd0f46bfa9)
+2024-11-25 01:11:22,606 New IEC 104 connection from 115.231.78.11:30000. (5d3cf198-ee87-4d77-a754-f6dd0f46bfa9)
+2024-11-25 01:19:00,755 ('115.231.78.11', 30000) ---> u_frame. TESTFR act. (5d3cf198-ee87-4d77-a754-f6dd0f46bfa9)
+2024-11-25 01:21:44,804 ('115.231.78.11', 30000) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (5d3cf198-ee87-4d77-a754-f6dd0f46bfa9)
+2024-11-25 01:25:08,174 IEC104 Station disconnected. (5d3cf198-ee87-4d77-a754-f6dd0f46bfa9)
+2024-11-25 06:29:10,943 Session timed out: 5d3cf198-ee87-4d77-a754-f6dd0f46bfa9
+2024-11-25 06:29:11,342 SNMP Exception: This class is not converted to new architecture
+2024-11-25 06:29:11,491 New IEC104 session from 104.40.52.38 (1b83089c-8bae-4ce9-9b9e-562ef95c5815)
+2024-11-25 06:29:11,492 New IEC 104 connection from 104.40.52.38:34206. (1b83089c-8bae-4ce9-9b9e-562ef95c5815)
+2024-11-25 06:29:11,541 IEC104 Station disconnected. (1b83089c-8bae-4ce9-9b9e-562ef95c5815)
+2024-11-25 06:29:11,543 New IEC104 session from 57.151.71.135 (b872f710-19e4-4c4c-82a7-04254cd15cdb)
+2024-11-25 06:29:11,544 New IEC 104 connection from 57.151.71.135:33720. (b872f710-19e4-4c4c-82a7-04254cd15cdb)
+2024-11-25 06:29:11,544 IEC104 Station disconnected. (b872f710-19e4-4c4c-82a7-04254cd15cdb)
+2024-11-25 06:29:11,677 New snmp session from 209.156.114.2 (ef672ab4-bae5-4acf-80f9-d7480115c62d)
+2024-11-25 06:29:11,677 SNMPv1 GetNext request from ('209.156.114.2', 54702): 1.3.6.1.2.1.1.2 
+2024-11-25 06:29:11,678 SNMPv1 GetNext response to ('209.156.114.2', 54702): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 06:29:11,682 SNMP Exception: This class is not converted to new architecture
+2024-11-25 06:29:12,348 New snmp session from 64.62.156.108 (e91ee6f9-89bb-4159-8913-4c945f09d8ed)
+2024-11-25 06:29:12,349 SNMPv2 Get request from ('64.62.156.108', 47131): 1.3.6.1.2.1.1.1.0 
+2024-11-25 06:29:12,349 SNMPv2 Get response to ('64.62.156.108', 47131): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-25 06:29:33,150 Stopping Conpot
+2024-11-25 06:29:34,439 Shutting down File System. Cleaning directories at /tmp/conpot/__conpot__qy4034b3
+2024-11-25 06:35:17,052 Config file found!
+2024-11-25 06:35:17,067 Starting Conpot using template: /usr/lib/python3.11/site-packages/conpot/templates/IEC104
+2024-11-25 06:35:17,067 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2024-11-25 06:35:17,391 Serving tar:///usr/lib/python3.11/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2024-11-25 06:35:17,403 Opening path /tmp/conpot for persistent storage of files.
+2024-11-25 06:35:17,404 Initializing Virtual File System at /tmp/conpot/__conpot__8emtige7. Source specified : tar:///usr/lib/python3.11/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2024-11-25 06:35:17,781 Fetched 172.179.243.167 as external ip.
+2024-11-25 06:35:17,980 IEC 104 Server up
+2024-11-25 06:35:17,982 Found and enabled IEC104 protocol.
+2024-11-25 06:35:18,139 Found and enabled snmp protocol.
+2024-11-25 06:35:18,181 No proxy template found. Service will remain unconfigured/stopped.
+2024-11-25 06:35:18,182 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2024-11-25 06:35:23,526 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2024-11-25 06:35:30,922 SNMP server started on: ('0.0.0.0', 161)
+2024-11-25 06:47:22,816 New snmp session from 13.91.182.170 (8478bcfe-69db-45db-bd17-000e7e5d3648)
+2024-11-25 06:47:22,818 SNMPv1 Get request from ('13.91.182.170', 42708): 1.3.6.1.2.1.1.1.0 
+2024-11-25 06:47:22,819 SNMPv1 Get response to ('13.91.182.170', 42708): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-25 06:47:54,856 Session timed out: 8478bcfe-69db-45db-bd17-000e7e5d3648
+2024-11-25 07:35:08,428 SNMP Exception: This class is not converted to new architecture
+2024-11-25 10:33:25,951 New snmp session from 205.210.31.255 (12808d29-cd32-48bd-9467-354e166198fa)
+2024-11-25 10:33:25,953 SNMPv2 GetNext request from ('205.210.31.255', 56208): 1.3.6.1.2.1 
+2024-11-25 10:33:25,954 SNMPv2 GetNext response to ('205.210.31.255', 56208): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-25 10:33:55,982 Session timed out: 12808d29-cd32-48bd-9467-354e166198fa
+2024-11-25 11:27:46,653 New snmp session from 82.219.12.209 (2a61dc6a-e139-469b-a765-08e0be7f89f7)
+2024-11-25 11:27:46,657 SNMPv1 GetNext request from ('82.219.12.209', 49837): 1.3.6.1.2.1.1.2 
+2024-11-25 11:27:46,657 SNMPv1 GetNext response to ('82.219.12.209', 49837): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 11:27:46,856 SNMPv1 GetNext request from ('82.219.12.209', 49837): 1.3.6.1.2.1.43 
+2024-11-25 11:27:46,856 SNMPv1 GetNext response to ('82.219.12.209', 49837): 1.3.6.1.2.1.43 
+2024-11-25 11:28:18,888 Session timed out: 2a61dc6a-e139-469b-a765-08e0be7f89f7
+2024-11-25 11:38:53,173 SNMP Exception: This class is not converted to new architecture
+2024-11-25 12:29:11,811 New snmp session from 154.212.141.194 (69d6bb0f-d382-4e74-bfdd-05e874a0372f)
+2024-11-25 12:29:11,815 SNMPv1 Get request from ('154.212.141.194', 2696): 1.3.6.1.2.1.1.1.0 
+2024-11-25 12:29:11,816 SNMPv1 Get response to ('154.212.141.194', 2696): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-25 12:29:12,427 SNMPv2 GetNext request from ('154.212.141.194', 2696): 1.3.6.1.2.1.16 
+2024-11-25 12:29:12,427 SNMPv2 GetNext response to ('154.212.141.194', 2696): 1.3.6.1.2.1.16 
+2024-11-25 12:29:42,456 Session timed out: 69d6bb0f-d382-4e74-bfdd-05e874a0372f
+2024-11-25 13:05:52,949 New snmp session from 12.208.108.34 (cce86e8b-07dc-4ca6-aead-ec3ffd56e6ea)
+2024-11-25 13:05:52,957 SNMPv1 Get request from ('12.208.108.34', 56745): 1.3.6.1.2.1.1.2.0 
+2024-11-25 13:05:52,957 SNMPv1 Get response to ('12.208.108.34', 56745): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 13:05:52,960 SNMPv1 Get request from ('12.208.108.34', 56745): 1.3.6.1.2.1.1.2.0 
+2024-11-25 13:05:52,960 SNMPv1 Get response to ('12.208.108.34', 56745): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 13:05:53,137 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-25 13:05:53,211 SNMPv1 Get request from ('12.208.108.34', 56745): 1.3.6.1.2.1.1.2.0 
+2024-11-25 13:05:53,211 SNMPv1 Get response to ('12.208.108.34', 56745): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 13:05:53,214 SNMPv1 Get request from ('12.208.108.34', 56745): 1.3.6.1.2.1.1.2.0 
+2024-11-25 13:05:53,214 SNMPv1 Get response to ('12.208.108.34', 56745): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 13:05:53,216 SNMPv1 Get request from ('12.208.108.34', 56745): 1.3.6.1.2.1.25.3.2.1.4.1 
+2024-11-25 13:05:53,216 SNMPv1 Get response to ('12.208.108.34', 56745): 1.3.6.1.2.1.25.3.2.1.4.1 
+2024-11-25 13:05:53,218 SNMPv1 Get request from ('12.208.108.34', 56745): 1.3.6.1.2.1.25.3.2.1.4.1 
+2024-11-25 13:05:53,218 SNMPv1 Get response to ('12.208.108.34', 56745): 1.3.6.1.2.1.25.3.2.1.4.1 
+2024-11-25 13:05:53,357 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-25 13:05:53,398 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-25 13:05:53,406 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-25 13:06:23,249 Session timed out: cce86e8b-07dc-4ca6-aead-ec3ffd56e6ea
+2024-11-25 13:16:31,103 New snmp session from 71.6.232.20 (4805db80-87c5-42a5-b260-563394f36679)
+2024-11-25 13:16:31,106 SNMPv1 Get request from ('71.6.232.20', 51385): 1.3.6.1.2.1.1.1.0 
+2024-11-25 13:16:31,106 SNMPv1 Get response to ('71.6.232.20', 51385): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-25 13:17:01,134 Session timed out: 4805db80-87c5-42a5-b260-563394f36679
+2024-11-25 15:13:32,791 New IEC104 session from 64.62.197.225 (8c36b676-57f0-40d7-8e35-3fb9cf36086d)
+2024-11-25 15:13:32,798 New IEC 104 connection from 64.62.197.225:50321. (8c36b676-57f0-40d7-8e35-3fb9cf36086d)
+2024-11-25 15:13:32,813 ('64.62.197.225', 50321) ---> u_frame. TESTFR act. (8c36b676-57f0-40d7-8e35-3fb9cf36086d)
+2024-11-25 15:13:32,813 ('64.62.197.225', 50321) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (8c36b676-57f0-40d7-8e35-3fb9cf36086d)
+2024-11-25 15:13:32,857 IEC104 Station disconnected. (8c36b676-57f0-40d7-8e35-3fb9cf36086d)
+2024-11-25 15:13:48,038 New IEC104 session from 64.62.197.214 (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:48,040 New IEC 104 connection from 64.62.197.214:3943. (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:48,949 New IEC 104 connection from 64.62.197.214:6419. (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:48,976 ('64.62.197.214', 6419) ---> u_frame. TESTFR act. (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:48,978 ('64.62.197.214', 6419) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,076 ('64.62.197.214', 6419) ---> u_frame. STARTDT act. (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,077 ('64.62.197.214', 6419) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,176 ('64.62.197.214', 6419) ---> i_frame C_IC_NA_1 with {'TypeID': 100, 'SQ': 0, 'NoO': 1, 'T': 0, 'PN': 0, 'COT': 6, 'OrigAddr': 0, 'COA': 65535} Objects=[{'IOA': 0, 'QOI': 20}]  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,179 ('64.62.197.214', 6419) <--- i_frame C_IC_NA_1 with {'COT': 7, 'COA': 7720} Objects=[{'QOI': 20}]  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,419 ('64.62.197.214', 6419) <--- i_frame M_SP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 16, 'COA': 7720} Objects=[{'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1314048}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1379584}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1445120}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1576192}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1641728}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2100480}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2166016}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2231552}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2297088}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2362624}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2428160}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2493696}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2559232}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2624768}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2690304}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2755840}]  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,436 ('64.62.197.214', 6419) <--- i_frame M_DP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 10, 'COA': 7720} Objects=[{'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 139520}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 205056}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 270592}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 336128}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 401664}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 467200}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 532736}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 598272}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 663808}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 729344}]  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,448 ('64.62.197.214', 6419) <--- i_frame M_ME_NB_1 with {'SQ': 0, 'COT': 20, 'NoO': 11, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 812032, 'SVA': 103}, {'QDS': <QDS  |>, 'IOA': 877568, 'SVA': 31}, {'QDS': <QDS  |>, 'IOA': 3367936, 'SVA': -49}, {'QDS': <QDS  |>, 'IOA': 7103488, 'SVA': 28871}, {'QDS': <QDS  |>, 'IOA': 7169024, 'SVA': 13781}, {'QDS': <QDS  |>, 'IOA': 11691008, 'SVA': 119}, {'QDS': <QDS  |>, 'IOA': 11756544, 'SVA': 219}, {'QDS': <QDS  |>, 'IOA': 12477440, 'SVA': 1009}, {'QDS': <QDS  |>, 'IOA': 12542976, 'SVA': -2}, {'QDS': <QDS  |>, 'IOA': 12608512, 'SVA': 701}, {'QDS': <QDS  |>, 'IOA': 12674048, 'SVA': 441}]  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,464 ('64.62.197.214', 6419) <--- i_frame M_ME_NC_1 with {'SQ': 0, 'COT': 20, 'NoO': 22, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 224000, 'FPNumber': 16.2}, {'QDS': <QDS  |>, 'IOA': 5073664, 'FPNumber': 15.9}, {'QDS': <QDS  |>, 'IOA': 5139200, 'FPNumber': 512.1}, {'QDS': <QDS  |>, 'IOA': 5204736, 'FPNumber': 433.4}, {'QDS': <QDS  |>, 'IOA': 5925632, 'FPNumber': 344.4}, {'QDS': <QDS  |>, 'IOA': 8547072, 'FPNumber': -0.44013}, {'QDS': <QDS  |>, 'IOA': 8612608, 'FPNumber': 43.0}, {'QDS': <QDS  |>, 'IOA': 8678144, 'FPNumber': 41.2}, {'QDS': <QDS  |>, 'IOA': 9267968, 'FPNumber': 12.1}, {'QDS': <QDS  |>, 'IOA': 13134592, 'FPNumber': 91}, {'QDS': <QDS  |>, 'IOA': 13200128, 'FPNumber': 98.8}, {'QDS': <QDS  |>, 'IOA': 13265664, 'FPNumber': 110}, {'QDS': <QDS  |>, 'IOA': 13331200, 'FPNumber': 85.1}, {'QDS': <QDS  |>, 'IOA': 13396736, 'FPNumber': 85.2}, {'QDS': <QDS  |>, 'IOA': 13462272, 'FPNumber': 410}, {'QDS': <QDS  |>, 'IOA': 13527808, 'FPNumber': 592}, {'QDS': <QDS  |>, 'IOA': 13593344, 'FPNumber': 1.5}, {'QDS': <QDS  |>, 'IOA': 13658880, 'FPNumber': 44.7}, {'QDS': <QDS  |>, 'IOA': 13724416, 'FPNumber': 11.9}, {'QDS': <QDS  |>, 'IOA': 13789952, 'FPNumber': 221.45}, {'QDS': <QDS  |>, 'IOA': 13855488, 'FPNumber': 13.4}, {'QDS': <QDS  |>, 'IOA': 13921024, 'FPNumber': 0.000402}]  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,476 ('64.62.197.214', 6419) <--- i_frame C_IC_NA_1 with {'COT': 10, 'COA': 7720} Objects=[{'QOI': 20}]  (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:13:49,574 IEC104 Station disconnected. (91468df0-3e33-4ce8-9502-8557396ddb69)
+2024-11-25 15:14:03,590 Session timed out: 8c36b676-57f0-40d7-8e35-3fb9cf36086d
+2024-11-25 15:14:21,613 Session timed out: 91468df0-3e33-4ce8-9502-8557396ddb69
+2024-11-25 15:55:33,313 New snmp session from 71.24.41.137 (3ac7114e-9df8-43e0-b746-b8fa142db1f6)
+2024-11-25 15:55:33,322 SNMPv1 GetNext request from ('71.24.41.137', 57137): 1.3.6.1.2.1.1.2 
+2024-11-25 15:55:33,322 SNMPv1 GetNext response to ('71.24.41.137', 57137): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 15:55:35,527 SNMPv1 GetNext request from ('71.24.41.137', 65022): 1.3.6.1.2.1.1.2 
+2024-11-25 15:55:35,530 SNMPv1 GetNext response to ('71.24.41.137', 65022): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 15:55:35,926 SNMPv1 GetNext request from ('71.24.41.137', 65024): 1.3.6.1.2.1.2.2.1.6 
+2024-11-25 15:55:35,928 SNMPv1 GetNext response to ('71.24.41.137', 65024): 1.3.6.1.2.1.2.2.1.6.1 )Å
+2024-11-25 15:55:36,214 SNMPv1 GetNext request from ('71.24.41.137', 65025): 1.3.6.1.2.1.2.2.1.6.1 
+2024-11-25 15:55:36,216 SNMPv1 GetNext response to ('71.24.41.137', 65025): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-25 15:55:36,473 SNMPv1 GetNext request from ('71.24.41.137', 65027): 1.3.6.1.2.1.2.2.1.6.2 
+2024-11-25 15:55:36,475 SNMPv1 GetNext response to ('71.24.41.137', 65027): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-25 15:55:36,893 SNMPv1 GetNext request from ('71.24.41.137', 65028): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-25 15:55:36,897 SNMPv1 GetNext response to ('71.24.41.137', 65028): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-25 15:55:37,131 SNMPv1 GetNext request from ('71.24.41.137', 65029): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-25 15:55:37,132 SNMPv1 GetNext response to ('71.24.41.137', 65029): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-25 15:56:07,190 Session timed out: 3ac7114e-9df8-43e0-b746-b8fa142db1f6
+2024-11-25 15:58:14,461 SNMP Exception: This class is not converted to new architecture
+2024-11-25 20:23:38,988 New IEC104 session from 167.94.145.108 (75116e4f-eb59-426f-b2a6-13f0a8c92d07)
+2024-11-25 20:23:39,237 New IEC 104 connection from 167.94.145.108:43058. (75116e4f-eb59-426f-b2a6-13f0a8c92d07)
+2024-11-25 20:23:39,243 ('167.94.145.108', 43058) ---> u_frame. STARTDT act. (75116e4f-eb59-426f-b2a6-13f0a8c92d07)
+2024-11-25 20:23:39,243 ('167.94.145.108', 43058) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (75116e4f-eb59-426f-b2a6-13f0a8c92d07)
+2024-11-25 20:23:39,244 New IEC 104 connection from 167.94.145.108:37690. (75116e4f-eb59-426f-b2a6-13f0a8c92d07)
+2024-11-25 20:23:39,244 New IEC 104 connection from 167.94.145.108:34356. (75116e4f-eb59-426f-b2a6-13f0a8c92d07)
+2024-11-25 20:23:39,246 New IEC 104 connection from 167.94.145.108:34482. (75116e4f-eb59-426f-b2a6-13f0a8c92d07)
+2024-11-25 20:23:39,247 New IEC 104 connection from 167.94.145.108:38232. (75116e4f-eb59-426f-b2a6-13f0a8c92d07)
+2024-11-25 20:23:39,780 New snmp session from 198.235.24.244 (e85e656c-b357-47ec-8650-b87e9a72d224)
+2024-11-25 20:23:39,780 SNMPv1 Get request from ('198.235.24.244', 56125): 1.3.6.1.2.1.1.1.0 
+2024-11-25 20:23:39,781 SNMPv1 Get response to ('198.235.24.244', 56125): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-25 20:23:39,802 SNMP Exception: This class is not converted to new architecture
+2024-11-25 20:23:39,890 New snmp session from 129.222.248.237 (a6b3fc12-a649-4d67-8d15-31bcfc8eb300)
+2024-11-25 20:23:39,891 SNMPv1 GetNext request from ('129.222.248.237', 61905): 1.3.6.1.2.1.1.2 
+2024-11-25 20:23:39,891 SNMPv1 GetNext response to ('129.222.248.237', 61905): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 20:23:39,894 New snmp session from 209.156.114.2 (2103c682-ef0a-4c38-b003-711fa4a05adf)
+2024-11-25 20:23:39,895 SNMPv1 GetNext request from ('209.156.114.2', 64900): 1.3.6.1.2.1.1.2 
+2024-11-25 20:23:39,895 SNMPv1 GetNext response to ('209.156.114.2', 64900): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 20:23:39,895 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-25 20:23:39,897 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-25 20:24:09,961 Session timed out: e85e656c-b357-47ec-8650-b87e9a72d224
+2024-11-25 20:24:09,961 Session timed out: 2103c682-ef0a-4c38-b003-711fa4a05adf
+2024-11-25 20:24:11,965 Session timed out: 75116e4f-eb59-426f-b2a6-13f0a8c92d07
+2024-11-25 20:24:13,967 Session timed out: a6b3fc12-a649-4d67-8d15-31bcfc8eb300
+2024-11-25 20:46:11,990 New snmp session from 71.24.41.137 (64cf3e6c-0f7b-4800-ae30-af97522aa2e1)
+2024-11-25 20:46:13,725 SNMPv1 GetNext request from ('71.24.41.137', 57137): 1.3.6.1.2.1.1.2 
+2024-11-25 20:46:15,637 SNMPv1 GetNext response to ('71.24.41.137', 57137): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 20:46:48,377 Session timed out: 64cf3e6c-0f7b-4800-ae30-af97522aa2e1
+2024-11-25 23:51:42,400 New snmp session from 209.156.114.2 (f344ccf4-9e70-42fb-b8d8-b564739ce5c9)
+2024-11-25 23:52:39,296 SNMPv1 GetNext request from ('209.156.114.2', 64900): 1.3.6.1.2.1.1.2 
+2024-11-25 23:53:15,450 SNMPv1 GetNext response to ('209.156.114.2', 64900): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-25 23:54:38,497 Session timed out: f344ccf4-9e70-42fb-b8d8-b564739ce5c9
+2024-11-26 00:12:37,764 SNMP Exception: This class is not converted to new architecture
+2024-11-26 01:27:47,444 New snmp session from 205.210.31.67 (26cb5e38-a174-43c6-bd66-357155cc8dbb)
+2024-11-26 01:27:50,644 SNMPv2 GetNext request from ('205.210.31.67', 49783): 1.3.6.1.2.1 
+2024-11-26 01:27:51,482 SNMPv2 GetNext response to ('205.210.31.67', 49783): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 01:28:23,240 Session timed out: 26cb5e38-a174-43c6-bd66-357155cc8dbb
+2024-11-26 08:12:40,864 New snmp session from 129.222.248.237 (bd6e6ad7-3c2a-4632-9cdb-38a50ddd79a0)
+2024-11-26 08:12:40,960 SNMPv1 GetNext request from ('129.222.248.237', 40406): 1.3.6.1.2.1.1.2 
+2024-11-26 08:12:40,961 SNMPv1 GetNext response to ('129.222.248.237', 40406): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-26 08:12:41,130 New IEC104 session from 199.45.155.95 (bc203d23-f22d-412f-91b5-f3570dc7af1d)
+2024-11-26 08:12:41,130 New IEC 104 connection from 199.45.155.95:44014. (bc203d23-f22d-412f-91b5-f3570dc7af1d)
+2024-11-26 08:12:41,131 ('199.45.155.95', 44014) ---> u_frame. STARTDT act. (bc203d23-f22d-412f-91b5-f3570dc7af1d)
+2024-11-26 08:12:41,141 ('199.45.155.95', 44014) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (bc203d23-f22d-412f-91b5-f3570dc7af1d)
+2024-11-26 08:12:41,141 New IEC 104 connection from 199.45.155.95:58590. (bc203d23-f22d-412f-91b5-f3570dc7af1d)
+2024-11-26 08:12:41,142 New IEC 104 connection from 199.45.155.95:58632. (bc203d23-f22d-412f-91b5-f3570dc7af1d)
+2024-11-26 08:12:41,146 New IEC 104 connection from 199.45.155.95:36824. (bc203d23-f22d-412f-91b5-f3570dc7af1d)
+2024-11-26 08:12:41,148 New IEC 104 connection from 199.45.155.95:56730. (bc203d23-f22d-412f-91b5-f3570dc7af1d)
+2024-11-26 08:12:41,149 New IEC104 session from 67.205.167.168 (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,150 New IEC 104 connection from 67.205.167.168:47650. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,155 InvalidFieldValue: ('Wrong length for u_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,157 IEC104 Station disconnected. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,158 New IEC 104 connection from 67.205.167.168:47434. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,161 ('67.205.167.168', 47434) ---> i_frame C_DC_NA_1 with {'TypeID': 46, 'SQ': 0, 'NoO': 57, 'T': 0, 'PN': 0, 'COT': 8, 'OrigAddr': 104, 'COA': 29812} Objects=[{'IOA': 3223408, 'QOC': 11, 'DCS': 2}, {'load': b'0\x08http/1.1\x06spdy/1\x06spdy/2\x06spdy/3\x02h2\x03'}]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,161 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,162 InvalidFieldValue: ('Wrong length for u_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,162 IEC104 Station disconnected. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,163 New IEC 104 connection from 67.205.167.168:57482. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,165 ('67.205.167.168', 57482) ---> i_frame C_CS_NA_1 with {'TypeID': 103, 'SQ': 0, 'NoO': 100, 'T': 0, 'PN': 0, 'COT': 12, 'OrigAddr': 45, 'COA': 21111} Objects=[{'CP56Time': <CP56Time  Ms=38681 Min=201 Hour=18 Day=26 Month=13 Year=189 |<Raw  load='\\J\x9f\x0b\xa8\x03\x01\n\xbbBH/\x91\x00F\xc0\x12\xc0\x07\xcc\x14\x13\x01\x13\x02\xcc\xa9\xc0s\xc0r\xc0,\xc0\xaf\xc0\xad\xc0$\xc0\n\xc0+\xc0\xae\xc0\xac\xc0#\xc0\t\xc0\x08\x00\x9a\x00\xc4\x00\x88\x00\xbe\x00E\x00\x9f\xc0\xa3\xc0\x9f\x00k\x009' |>>, 'IOA': 1699309}]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,165 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,167 ('67.205.167.168', 57482) ---> i_frame C_DC_NA_1 with {'TypeID': 46, 'SQ': 0, 'NoO': 57, 'T': 0, 'PN': 0, 'COT': 8, 'OrigAddr': 104, 'COA': 29812} Objects=[{'IOA': 3223408, 'QOC': 11, 'DCS': 2}, {'load': b'0\x08http/1.1\x06spdy/1\x06spdy/2\x06spdy/3\x02h2\x03h2c\x02hq\x00\r\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01'}]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,167 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,167 IEC104 Station disconnected. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,168 New IEC 104 connection from 67.205.167.168:34918. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,169 ('67.205.167.168', 34918) ---> i_frame NoPayload with {'TypeID': 46, 'SQ': 0, 'NoO': 57} Objects=[]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,170 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,171 ('67.205.167.168', 34918) ---> i_frame C_DC_NA_1 with {'TypeID': 46, 'SQ': 0, 'NoO': 48, 'T': 0, 'PN': 0, 'COT': 6, 'OrigAddr': 115, 'COA': 25712} Objects=[{'IOA': 3223417, 'QOC': 1, 'DCS': 2}, {'load': b'spdy/2\x06spdy/3\x03h2c\x02hq\x00\r\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x02\x01\x003\x00&\x00$\x00\x1d\x00 vBR\xa8hb\x8e\x0b\xad\xa6\xcd|7\x08\xf16M\xf9\xe3\x88\xf9\xee\xd0\xd6\xfc\x16;R\xd6_\x10\x05\x00-\x00'}]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,171 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,172 IEC104 Station disconnected. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,172 New IEC 104 connection from 67.205.167.168:48784. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,464 New IEC 104 connection from 67.205.167.168:42522. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,467 New IEC 104 connection from 67.205.167.168:45338. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,469 InvalidFieldValue: ('Wrong length for u_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,470 ('67.205.167.168', 45338) ---> i_frame C_DC_NA_1 with {'TypeID': 46, 'SQ': 0, 'NoO': 49, 'T': 0, 'PN': 0, 'COT': 8, 'OrigAddr': 104, 'COA': 29812} Objects=[{'IOA': 3223408, 'QOC': 11, 'DCS': 2}, {'load': b'0\x08http/0.9\x00\r\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x02\x01\x003\x00&\x00$\x00\x1d\x00 \xd3uu\xd7\\\x04\xd4\x1b\xca\x83Hl\x0c\xc8A\xe12\xca\x84\xb3]nu\xea6\x92\xce\x806f\xd9\xed\x00-\x00\x02\x01\x01\x00+\x00\t'}]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,471 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,471 IEC104 Station disconnected. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,471 New IEC 104 connection from 67.205.167.168:44016. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,476 ('67.205.167.168', 44016) ---> i_frame C_DC_NA_1 with {'TypeID': 46, 'SQ': 0, 'NoO': 57, 'T': 0, 'PN': 0, 'COT': 8, 'OrigAddr': 104, 'COA': 29812} Objects=[{'IOA': 3223408, 'QOC': 11, 'DCS': 2}, {'load': b'0\x08http/1.1\x06spdy/1\x06spdy/2\x06spdy/3\x02h2\x03h2c\x02hq\x00\r\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08'}]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,477 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,478 IEC104 Station disconnected. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,482 New IEC 104 connection from 67.205.167.168:58358. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,484 ('67.205.167.168', 58358) ---> i_frame C_DC_NA_1 with {'TypeID': 46, 'SQ': 0, 'NoO': 57, 'T': 0, 'PN': 0, 'COT': 8, 'OrigAddr': 104, 'COA': 29812} Objects=[{'IOA': 3223408, 'QOC': 11, 'DCS': 2}, {'load': b'0\x08http/1.1\x06spdy/1\x06spdy/2\x06spdy/3\x02h2\x03h2c\x02'}]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,484 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,485 ('67.205.167.168', 58358) ---> i_frame Raw with {'TypeID': 0, 'SQ': 0, 'NoO': 18, 'T': 0, 'PN': 0, 'COT': 4, 'OrigAddr': 3, 'COA': 1032} Objects=[{'load': b'\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x02\x01\x003\x00&\x00$\x00\x1d\x00 \tw]\x98\x96\x9f\xf6\xc2B\xf8\xf0`\x12\xb8\xa3#\x01\xf4)\xeaA\x93@\xbb\xe1\x95\xbb\x11\x81\x03\xc4\xfc\x00-\x00\x02\x01\x01\x00+\x00\t\x08\x03\x01\x03\x02\x03\x03\x03\x04'}]  (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,485 InvalidFieldValue: ('Wrong length for i_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,486 IEC104 Station disconnected. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,486 New IEC 104 connection from 67.205.167.168:34272. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,489 InvalidFieldValue: ('Wrong length for u_frame packet! (%s)', UUID('cfbd496f-4764-4d95-924f-b22834a29a9b')). (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,489 IEC104 Station disconnected. (cfbd496f-4764-4d95-924f-b22834a29a9b)
+2024-11-26 08:12:41,490 New IEC104 session from 167.94.146.57 (630ad614-a718-4e26-96b3-52a02cfb0f36)
+2024-11-26 08:12:41,490 New IEC 104 connection from 167.94.146.57:55240. (630ad614-a718-4e26-96b3-52a02cfb0f36)
+2024-11-26 08:12:41,491 ('167.94.146.57', 55240) ---> u_frame. STARTDT act. (630ad614-a718-4e26-96b3-52a02cfb0f36)
+2024-11-26 08:12:41,491 ('167.94.146.57', 55240) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (630ad614-a718-4e26-96b3-52a02cfb0f36)
+2024-11-26 08:12:41,492 New IEC 104 connection from 167.94.146.57:34496. (630ad614-a718-4e26-96b3-52a02cfb0f36)
+2024-11-26 08:12:41,492 New IEC 104 connection from 167.94.146.57:44476. (630ad614-a718-4e26-96b3-52a02cfb0f36)
+2024-11-26 08:12:41,495 New IEC 104 connection from 167.94.146.57:44634. (630ad614-a718-4e26-96b3-52a02cfb0f36)
+2024-11-26 08:12:41,495 New IEC 104 connection from 167.94.146.57:36554. (630ad614-a718-4e26-96b3-52a02cfb0f36)
+2024-11-26 08:12:42,026 New snmp session from 64.62.197.197 (971dbedf-b468-4505-be41-b0525ff4b380)
+2024-11-26 08:12:42,027 SNMPv2 Get request from ('64.62.197.197', 15287): 1.3.6.1.2.1.1.1.0 
+2024-11-26 08:12:42,029 SNMPv2 Get response to ('64.62.197.197', 15287): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:42,042 SNMP Exception: This class is not converted to new architecture
+2024-11-26 08:12:42,520 New snmp session from 207.191.188.66 (78b6e2cc-d93d-4dd8-8f1c-d5dba710ea0e)
+2024-11-26 08:12:42,540 SNMPv2 Get request from ('207.191.188.66', 3499): 1.3.6.1.2.1.1.1.0 
+2024-11-26 08:12:42,540 SNMPv2 Get response to ('207.191.188.66', 3499): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:42,634 SNMPv2 Get request from ('207.191.188.66', 3499): 1.3.6.1.2.1.1.1.0 
+2024-11-26 08:12:42,635 SNMPv2 Get response to ('207.191.188.66', 3499): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:42,692 SNMPv1 Get request from ('207.191.188.66', 3499): 1.3.6.1.2.1.1.1.0 
+2024-11-26 08:12:42,707 SNMPv1 Get response to ('207.191.188.66', 3499): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:42,788 SNMPv1 Get request from ('207.191.188.66', 3499): 1.3.6.1.2.1.1.1.0 
+2024-11-26 08:12:42,789 SNMPv1 Get response to ('207.191.188.66', 3499): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:42,905 New snmp session from 206.168.35.184 (a21ca619-dd65-4456-9ce2-e86a9638d674)
+2024-11-26 08:12:42,922 SNMPv2 Get request from ('206.168.35.184', 1589): 1.3.6.1.2.1.1.5.0 
+2024-11-26 08:12:42,922 SNMPv2 Get response to ('206.168.35.184', 1589): 1.3.6.1.2.1.1.5.0 
+2024-11-26 08:12:43,063 New snmp session from 71.6.232.20 (491b24ee-e250-430b-bd5a-f470d169de44)
+2024-11-26 08:12:43,064 SNMPv2 Get request from ('71.6.232.20', 55288): 1.3.6.1.2.1.1.1.0 
+2024-11-26 08:12:43,065 SNMPv2 Get response to ('71.6.232.20', 55288): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:43,070 SNMP Exception: This class is not converted to new architecture
+2024-11-26 08:12:43,093 New snmp session from 146.88.241.170 (b153fdec-5e0d-4a69-bada-02e1dc0d5aed)
+2024-11-26 08:12:43,094 SNMPv2 GetNext request from ('146.88.241.170', 45086): 1.3.6.1.2.1 
+2024-11-26 08:12:43,096 SNMPv2 GetNext response to ('146.88.241.170', 45086): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:43,098 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,101 New snmp session from 61.141.65.54 (50a682b1-96b6-4d5d-955d-02697942b7ad)
+2024-11-26 08:12:43,102 SNMPv2 GetNext request from ('61.141.65.54', 59987): 1.3.6.1.2.1 
+2024-11-26 08:12:43,103 SNMPv2 GetNext response to ('61.141.65.54', 59987): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:43,104 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,109 SNMPv2 GetNext request from ('61.141.65.54', 59988): 1.3.6.1.2.1 
+2024-11-26 08:12:43,109 SNMPv2 GetNext response to ('61.141.65.54', 59988): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:43,111 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,114 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,118 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,122 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,126 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,129 New snmp session from 205.210.31.159 (24c7375a-01d1-4499-abbf-34397dbf5f67)
+2024-11-26 08:12:43,130 SNMPv2 GetNext request from ('205.210.31.159', 51004): 1.3.6.1.2.1 
+2024-11-26 08:12:43,131 SNMPv2 GetNext response to ('205.210.31.159', 51004): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 08:12:43,132 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,141 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:12:43,247 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 08:13:00,497 Stopping Conpot
+2024-11-26 08:13:01,223 Shutting down File System. Cleaning directories at /tmp/conpot/__conpot__8emtige7
+2024-11-26 08:17:06,265 Config file found!
+2024-11-26 08:17:06,340 Starting Conpot using template: /usr/lib/python3.11/site-packages/conpot/templates/IEC104
+2024-11-26 08:17:06,450 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2024-11-26 08:17:07,279 Serving tar:///usr/lib/python3.11/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2024-11-26 08:17:07,280 Opening path /tmp/conpot for persistent storage of files.
+2024-11-26 08:17:07,291 Initializing Virtual File System at /tmp/conpot/__conpot__s0ngt2sb. Source specified : tar:///usr/lib/python3.11/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2024-11-26 08:17:07,553 Fetched 172.179.243.167 as external ip.
+2024-11-26 08:17:07,621 IEC 104 Server up
+2024-11-26 08:17:07,622 Found and enabled IEC104 protocol.
+2024-11-26 08:17:07,653 Found and enabled snmp protocol.
+2024-11-26 08:17:07,654 No proxy template found. Service will remain unconfigured/stopped.
+2024-11-26 08:17:07,657 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2024-11-26 08:17:10,836 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2024-11-26 08:17:17,107 SNMP server started on: ('0.0.0.0', 161)
+2024-11-26 09:03:30,828 New IEC104 session from 172.169.3.243 (63dbc248-40a0-4184-9915-68e16dfce177)
+2024-11-26 09:03:30,829 New IEC 104 connection from 172.169.3.243:42704. (63dbc248-40a0-4184-9915-68e16dfce177)
+2024-11-26 09:03:40,791 IEC104 Station disconnected. (63dbc248-40a0-4184-9915-68e16dfce177)
+2024-11-26 09:04:10,817 Session timed out: 63dbc248-40a0-4184-9915-68e16dfce177
+2024-11-26 09:22:29,263 New IEC104 session from 52.160.36.1 (4baf8f47-e082-4026-888c-96ed5eea5d18)
+2024-11-26 09:22:29,265 New IEC 104 connection from 52.160.36.1:60600. (4baf8f47-e082-4026-888c-96ed5eea5d18)
+2024-11-26 09:22:39,263 IEC104 Station disconnected. (4baf8f47-e082-4026-888c-96ed5eea5d18)
+2024-11-26 09:23:09,290 Session timed out: 4baf8f47-e082-4026-888c-96ed5eea5d18
+2024-11-26 11:15:21,719 SNMP Exception: This class is not converted to new architecture
+2024-11-26 13:54:19,256 New snmp session from 172.169.206.50 (bca8ab7f-a0d0-4928-b5e7-897f4e2c7ea6)
+2024-11-26 13:54:19,261 SNMPv1 Get request from ('172.169.206.50', 39573): 1.3.6.1.2.1.1.1.0 
+2024-11-26 13:54:19,261 SNMPv1 Get response to ('172.169.206.50', 39573): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 13:54:49,316 Session timed out: bca8ab7f-a0d0-4928-b5e7-897f4e2c7ea6
+2024-11-26 14:02:54,669 SNMP Exception: This class is not converted to new architecture
+2024-11-26 15:02:15,441 New snmp session from 129.222.248.237 (4bf7fa2e-8855-471d-97b1-af1806433c13)
+2024-11-26 15:02:15,452 SNMPv1 GetNext request from ('129.222.248.237', 61248): 1.3.6.1.2.1.1.2 
+2024-11-26 15:02:15,452 SNMPv1 GetNext response to ('129.222.248.237', 61248): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-26 15:02:17,386 SNMPv1 GetNext request from ('129.222.248.237', 13151): 1.3.6.1.2.1.1.2 
+2024-11-26 15:02:17,391 SNMPv1 GetNext response to ('129.222.248.237', 13151): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-26 15:02:17,741 SNMPv1 GetNext request from ('129.222.248.237', 31527): 1.3.6.1.2.1.2.2.1.6 
+2024-11-26 15:02:17,788 SNMPv1 GetNext response to ('129.222.248.237', 31527): 1.3.6.1.2.1.2.2.1.6.1 )Å
+2024-11-26 15:02:18,847 SNMPv1 GetNext request from ('129.222.248.237', 38840): 1.3.6.1.2.1.2.2.1.6.1 
+2024-11-26 15:02:18,852 SNMPv1 GetNext response to ('129.222.248.237', 38840): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-26 15:02:23,694 SNMPv1 GetNext request from ('129.222.248.237', 36001): 1.3.6.1.2.1.2.2.1.6.1 
+2024-11-26 15:02:23,804 SNMPv1 GetNext response to ('129.222.248.237', 36001): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-26 15:02:24,340 SNMPv1 GetNext request from ('129.222.248.237', 5048): 1.3.6.1.2.1.2.2.1.6.2 
+2024-11-26 15:02:24,400 SNMPv1 GetNext response to ('129.222.248.237', 5048): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-26 15:02:24,804 SNMPv1 GetNext request from ('129.222.248.237', 49405): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-26 15:02:24,805 SNMPv1 GetNext response to ('129.222.248.237', 49405): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-26 15:02:25,495 SNMPv1 GetNext request from ('129.222.248.237', 48512): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-26 15:02:25,497 SNMPv1 GetNext response to ('129.222.248.237', 48512): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-26 15:02:41,851 New IEC104 session from 198.235.24.168 (a27a57d7-9ef7-4aaa-8757-b3172e1cb078)
+2024-11-26 15:02:41,994 New IEC 104 connection from 198.235.24.168:65234. (a27a57d7-9ef7-4aaa-8757-b3172e1cb078)
+2024-11-26 15:02:42,037 ('198.235.24.168', 65234) ---> u_frame. TESTFR act. (a27a57d7-9ef7-4aaa-8757-b3172e1cb078)
+2024-11-26 15:02:42,041 ('198.235.24.168', 65234) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (a27a57d7-9ef7-4aaa-8757-b3172e1cb078)
+2024-11-26 15:02:56,797 Session timed out: 4bf7fa2e-8855-471d-97b1-af1806433c13
+2024-11-26 15:03:11,896 Session timed out: a27a57d7-9ef7-4aaa-8757-b3172e1cb078
+2024-11-26 15:10:36,197 New snmp session from 185.180.141.38 (f5a6f7cd-64e7-4c61-81c5-8130c25eb1c0)
+2024-11-26 15:10:37,905 SNMPv2 Get request from ('185.180.141.38', 50572): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:10:38,444 SNMPv2 Get response to ('185.180.141.38', 50572): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:10:41,903 New snmp session from 185.180.141.37 (ec06ee2a-30f2-4749-a8f9-2228975ddb8e)
+2024-11-26 15:10:43,246 SNMPv2 Get request from ('185.180.141.37', 53067): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:10:43,749 SNMPv2 Get response to ('185.180.141.37', 53067): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:10:49,795 New snmp session from 185.180.141.39 (5f6732a4-78f3-4842-bc1f-53ae108e902a)
+2024-11-26 15:10:50,251 SNMPv2 Get request from ('185.180.141.39', 41167): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:10:50,685 SNMPv2 Get response to ('185.180.141.39', 41167): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:10:51,796 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 15:10:53,709 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 15:11:09,644 Session timed out: f5a6f7cd-64e7-4c61-81c5-8130c25eb1c0
+2024-11-26 15:11:16,852 Session timed out: ec06ee2a-30f2-4749-a8f9-2228975ddb8e
+2024-11-26 15:11:21,201 Session timed out: 5f6732a4-78f3-4842-bc1f-53ae108e902a
+2024-11-26 15:12:06,040 New snmp session from 185.180.141.37 (51aca44d-6fdf-4b29-8511-f9c9280e7e46)
+2024-11-26 15:12:09,599 SNMPv2 Get request from ('185.180.141.37', 46844): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:12:11,049 SNMPv2 Get response to ('185.180.141.37', 46844): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:12:15,453 New snmp session from 185.180.141.38 (476976cb-d9bf-41a6-a0b8-6fdc1ca99379)
+2024-11-26 15:12:16,195 SNMPv2 Get request from ('185.180.141.38', 36050): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:12:16,243 SNMPv2 Get response to ('185.180.141.38', 36050): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:12:20,100 New snmp session from 185.180.141.40 (be29e01d-9163-46e5-937a-9016e49a2f9b)
+2024-11-26 15:12:20,241 SNMPv2 Get request from ('185.180.141.40', 45556): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:12:20,355 SNMPv2 Get response to ('185.180.141.40', 45556): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:12:22,352 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 15:12:23,104 SNMP Exception: 'rfc3412.receiveMessage:request'
+2024-11-26 15:12:24,197 SNMP Exception: This class is not converted to new architecture
+2024-11-26 15:12:42,449 Session timed out: 51aca44d-6fdf-4b29-8511-f9c9280e7e46
+2024-11-26 15:12:48,907 Session timed out: 476976cb-d9bf-41a6-a0b8-6fdc1ca99379
+2024-11-26 15:12:53,199 Session timed out: be29e01d-9163-46e5-937a-9016e49a2f9b
+2024-11-26 15:42:48,559 New snmp session from 198.235.24.143 (deda2579-1121-47d8-9fe6-50c60c40e07d)
+2024-11-26 15:42:48,703 SNMPv1 Get request from ('198.235.24.143', 51925): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:42:48,704 SNMPv1 Get response to ('198.235.24.143', 51925): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:43:20,601 Session timed out: deda2579-1121-47d8-9fe6-50c60c40e07d
+2024-11-26 15:59:18,714 New snmp session from 199.45.155.101 (93d40837-683d-4cb4-a831-a32d9092ef91)
+2024-11-26 15:59:18,814 SNMPv1 Get request from ('199.45.155.101', 53089): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:59:18,814 SNMPv1 Get response to ('199.45.155.101', 53089): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:59:19,323 SNMPv1 Get request from ('199.45.155.101', 53089): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-26 15:59:19,324 SNMPv1 Get response to ('199.45.155.101', 53089): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-26 15:59:19,875 SNMPv1 Get request from ('199.45.155.101', 53089): 1.3.6.1.2.1.2.1.0 
+2024-11-26 15:59:19,876 SNMPv1 Get response to ('199.45.155.101', 53089): 1.3.6.1.2.1.2.1.0 1
+2024-11-26 15:59:22,759 SNMPv2 Get request from ('199.45.155.101', 53089): 1.3.6.1.2.1.1.1.0 
+2024-11-26 15:59:22,965 SNMPv2 Get response to ('199.45.155.101', 53089): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-26 15:59:23,364 SNMPv2 Get request from ('199.45.155.101', 53089): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-26 15:59:23,365 SNMPv2 Get response to ('199.45.155.101', 53089): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-26 15:59:25,859 SNMPv2 Get request from ('199.45.155.101', 53089): 1.3.6.1.2.1.2.1.0 
+2024-11-26 15:59:25,908 SNMPv2 Get response to ('199.45.155.101', 53089): 1.3.6.1.2.1.2.1.0 1
+2024-11-26 15:59:40,160 New IEC104 session from 64.62.197.4 (c25b057f-0932-4cf1-b69e-658904829c1d)
+2024-11-26 15:59:40,410 New IEC 104 connection from 64.62.197.4:17551. (c25b057f-0932-4cf1-b69e-658904829c1d)
+2024-11-26 15:59:40,412 ('64.62.197.4', 17551) ---> u_frame. TESTFR act. (c25b057f-0932-4cf1-b69e-658904829c1d)
+2024-11-26 15:59:40,459 ('64.62.197.4', 17551) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (c25b057f-0932-4cf1-b69e-658904829c1d)
+2024-11-26 15:59:40,662 IEC104 Station disconnected. (c25b057f-0932-4cf1-b69e-658904829c1d)
+2024-11-26 15:59:53,612 New IEC104 session from 64.62.197.9 (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:53,963 New IEC 104 connection from 64.62.197.9:8677. (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:54,664 New IEC 104 connection from 64.62.197.9:20697. (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:54,758 ('64.62.197.9', 20697) ---> u_frame. TESTFR act. (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:54,758 ('64.62.197.9', 20697) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:54,789 ('64.62.197.9', 20697) ---> u_frame. STARTDT act. (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:54,790 ('64.62.197.9', 20697) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:54,961 ('64.62.197.9', 20697) ---> i_frame C_IC_NA_1 with {'TypeID': 100, 'SQ': 0, 'NoO': 1, 'T': 0, 'PN': 0, 'COT': 6, 'OrigAddr': 0, 'COA': 65535} Objects=[{'IOA': 0, 'QOI': 20}]  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:55,012 ('64.62.197.9', 20697) <--- i_frame C_IC_NA_1 with {'COT': 7, 'COA': 7720} Objects=[{'QOI': 20}]  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:55,416 ('64.62.197.9', 20697) <--- i_frame M_SP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 16, 'COA': 7720} Objects=[{'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1314048}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1379584}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1445120}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1576192}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1641728}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2100480}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2166016}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2231552}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2297088}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2362624}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2428160}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2493696}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2559232}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2624768}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2690304}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2755840}]  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:55,425 ('64.62.197.9', 20697) <--- i_frame M_DP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 10, 'COA': 7720} Objects=[{'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 139520}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 205056}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 270592}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 336128}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 401664}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 467200}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 532736}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 598272}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 663808}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 729344}]  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:55,429 ('64.62.197.9', 20697) <--- i_frame M_ME_NB_1 with {'SQ': 0, 'COT': 20, 'NoO': 11, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 812032, 'SVA': 103}, {'QDS': <QDS  |>, 'IOA': 877568, 'SVA': 31}, {'QDS': <QDS  |>, 'IOA': 3367936, 'SVA': -49}, {'QDS': <QDS  |>, 'IOA': 7103488, 'SVA': 28871}, {'QDS': <QDS  |>, 'IOA': 7169024, 'SVA': 13781}, {'QDS': <QDS  |>, 'IOA': 11691008, 'SVA': 119}, {'QDS': <QDS  |>, 'IOA': 11756544, 'SVA': 219}, {'QDS': <QDS  |>, 'IOA': 12477440, 'SVA': 1009}, {'QDS': <QDS  |>, 'IOA': 12542976, 'SVA': -2}, {'QDS': <QDS  |>, 'IOA': 12608512, 'SVA': 701}, {'QDS': <QDS  |>, 'IOA': 12674048, 'SVA': 441}]  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:55,476 ('64.62.197.9', 20697) <--- i_frame M_ME_NC_1 with {'SQ': 0, 'COT': 20, 'NoO': 22, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 224000, 'FPNumber': 16.2}, {'QDS': <QDS  |>, 'IOA': 5073664, 'FPNumber': 15.9}, {'QDS': <QDS  |>, 'IOA': 5139200, 'FPNumber': 512.1}, {'QDS': <QDS  |>, 'IOA': 5204736, 'FPNumber': 433.4}, {'QDS': <QDS  |>, 'IOA': 5925632, 'FPNumber': 344.4}, {'QDS': <QDS  |>, 'IOA': 8547072, 'FPNumber': -0.44013}, {'QDS': <QDS  |>, 'IOA': 8612608, 'FPNumber': 43.0}, {'QDS': <QDS  |>, 'IOA': 8678144, 'FPNumber': 41.2}, {'QDS': <QDS  |>, 'IOA': 9267968, 'FPNumber': 12.1}, {'QDS': <QDS  |>, 'IOA': 13134592, 'FPNumber': 91}, {'QDS': <QDS  |>, 'IOA': 13200128, 'FPNumber': 98.8}, {'QDS': <QDS  |>, 'IOA': 13265664, 'FPNumber': 110}, {'QDS': <QDS  |>, 'IOA': 13331200, 'FPNumber': 85.1}, {'QDS': <QDS  |>, 'IOA': 13396736, 'FPNumber': 85.2}, {'QDS': <QDS  |>, 'IOA': 13462272, 'FPNumber': 410}, {'QDS': <QDS  |>, 'IOA': 13527808, 'FPNumber': 592}, {'QDS': <QDS  |>, 'IOA': 13593344, 'FPNumber': 1.5}, {'QDS': <QDS  |>, 'IOA': 13658880, 'FPNumber': 44.7}, {'QDS': <QDS  |>, 'IOA': 13724416, 'FPNumber': 11.9}, {'QDS': <QDS  |>, 'IOA': 13789952, 'FPNumber': 221.45}, {'QDS': <QDS  |>, 'IOA': 13855488, 'FPNumber': 13.4}, {'QDS': <QDS  |>, 'IOA': 13921024, 'FPNumber': 0.000402}]  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:55,482 ('64.62.197.9', 20697) <--- i_frame C_IC_NA_1 with {'COT': 10, 'COA': 7720} Objects=[{'QOI': 20}]  (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:55,588 IEC104 Station disconnected. (c977251c-10e9-43d0-8a7c-ac6fcf5f1176)
+2024-11-26 15:59:57,919 Session timed out: 93d40837-683d-4cb4-a831-a32d9092ef91
+2024-11-26 16:00:12,866 Session timed out: c25b057f-0932-4cf1-b69e-658904829c1d
+2024-11-26 16:00:27,457 Session timed out: c977251c-10e9-43d0-8a7c-ac6fcf5f1176
+2024-11-26 17:58:57,858 New snmp session from 81.84.243.25 (98fcda2d-7b11-4e79-a5c6-08690e7b5277)
+2024-11-26 17:59:15,910 SNMPv1 GetNext request from ('81.84.243.25', 58798): 1.3.6.1.2.1.1.2 
+2024-11-26 17:59:39,562 SNMPv1 GetNext response to ('81.84.243.25', 58798): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-26 18:00:37,856 Session timed out: 98fcda2d-7b11-4e79-a5c6-08690e7b5277
+2024-11-26 18:25:00,762 New snmp session from 209.156.114.2 (0e8584f7-1f49-4436-9e74-36fd915fdf1c)
+2024-11-26 18:25:31,663 SNMPv1 GetNext request from ('209.156.114.2', 61379): 1.3.6.1.2.1.1.2 
+2024-11-26 18:26:04,923 SNMPv1 GetNext response to ('209.156.114.2', 61379): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-26 18:27:50,362 Session timed out: 0e8584f7-1f49-4436-9e74-36fd915fdf1c
+2024-11-26 18:39:13,218 SNMP Exception: This class is not converted to new architecture
+2024-11-30 16:09:23,278 Config file found!
+2024-11-30 16:09:23,300 Starting Conpot using template: /usr/lib/python3.11/site-packages/conpot/templates/IEC104
+2024-11-30 16:09:23,300 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2024-11-30 16:09:23,748 Serving tar:///usr/lib/python3.11/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2024-11-30 16:09:23,748 Opening path /tmp/conpot for persistent storage of files.
+2024-11-30 16:09:23,752 Initializing Virtual File System at /tmp/conpot/__conpot__btvarqv8. Source specified : tar:///usr/lib/python3.11/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2024-11-30 16:09:23,961 Fetched 172.179.243.167 as external ip.
+2024-11-30 16:09:24,013 IEC 104 Server up
+2024-11-30 16:09:24,017 Found and enabled IEC104 protocol.
+2024-11-30 16:09:24,054 Found and enabled snmp protocol.
+2024-11-30 16:09:24,057 No proxy template found. Service will remain unconfigured/stopped.
+2024-11-30 16:09:24,059 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2024-11-30 16:09:28,598 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2024-11-30 16:09:35,370 SNMP server started on: ('0.0.0.0', 161)
+2024-11-30 16:15:56,529 SNMP Exception: This class is not converted to new architecture
+2024-11-30 16:49:30,355 New snmp session from 198.235.24.206 (2f5386be-9fe2-4345-b844-941f9755a18b)
+2024-11-30 16:49:30,360 SNMPv1 Get request from ('198.235.24.206', 53178): 1.3.6.1.2.1.1.1.0 
+2024-11-30 16:49:30,360 SNMPv1 Get response to ('198.235.24.206', 53178): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-30 16:50:00,401 Session timed out: 2f5386be-9fe2-4345-b844-941f9755a18b
+2024-11-30 17:04:44,941 New IEC104 session from 65.49.1.81 (ba9df28f-f80a-421b-8510-a0ed2e2d2f2f)
+2024-11-30 17:04:44,942 New IEC 104 connection from 65.49.1.81:42417. (ba9df28f-f80a-421b-8510-a0ed2e2d2f2f)
+2024-11-30 17:04:44,942 ('65.49.1.81', 42417) ---> u_frame. TESTFR act. (ba9df28f-f80a-421b-8510-a0ed2e2d2f2f)
+2024-11-30 17:04:44,943 ('65.49.1.81', 42417) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (ba9df28f-f80a-421b-8510-a0ed2e2d2f2f)
+2024-11-30 17:04:44,979 IEC104 Station disconnected. (ba9df28f-f80a-421b-8510-a0ed2e2d2f2f)
+2024-11-30 17:04:58,467 New IEC104 session from 65.49.1.85 (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:04:58,467 New IEC 104 connection from 65.49.1.85:41961. (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,071 New IEC 104 connection from 65.49.1.85:3563. (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,096 ('65.49.1.85', 3563) ---> u_frame. TESTFR act. (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,097 ('65.49.1.85', 3563) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,195 ('65.49.1.85', 3563) ---> u_frame. STARTDT act. (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,196 ('65.49.1.85', 3563) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,297 ('65.49.1.85', 3563) ---> i_frame C_IC_NA_1 with {'TypeID': 100, 'SQ': 0, 'NoO': 1, 'T': 0, 'PN': 0, 'COT': 6, 'OrigAddr': 0, 'COA': 65535} Objects=[{'IOA': 0, 'QOI': 20}]  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,301 ('65.49.1.85', 3563) <--- i_frame C_IC_NA_1 with {'COT': 7, 'COA': 7720} Objects=[{'QOI': 20}]  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,450 ('65.49.1.85', 3563) <--- i_frame M_SP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 16, 'COA': 7720} Objects=[{'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1314048}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1379584}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1445120}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1576192}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1641728}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2100480}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2166016}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2231552}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2297088}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2362624}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2428160}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2493696}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2559232}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2624768}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2690304}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2755840}]  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,458 ('65.49.1.85', 3563) <--- i_frame M_DP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 10, 'COA': 7720} Objects=[{'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 139520}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 205056}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 270592}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 336128}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 401664}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 467200}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 532736}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 598272}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 663808}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 729344}]  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,463 ('65.49.1.85', 3563) <--- i_frame M_ME_NB_1 with {'SQ': 0, 'COT': 20, 'NoO': 11, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 812032, 'SVA': 103}, {'QDS': <QDS  |>, 'IOA': 877568, 'SVA': 31}, {'QDS': <QDS  |>, 'IOA': 3367936, 'SVA': -49}, {'QDS': <QDS  |>, 'IOA': 7103488, 'SVA': 28871}, {'QDS': <QDS  |>, 'IOA': 7169024, 'SVA': 13781}, {'QDS': <QDS  |>, 'IOA': 11691008, 'SVA': 119}, {'QDS': <QDS  |>, 'IOA': 11756544, 'SVA': 219}, {'QDS': <QDS  |>, 'IOA': 12477440, 'SVA': 1009}, {'QDS': <QDS  |>, 'IOA': 12542976, 'SVA': -2}, {'QDS': <QDS  |>, 'IOA': 12608512, 'SVA': 701}, {'QDS': <QDS  |>, 'IOA': 12674048, 'SVA': 441}]  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,471 ('65.49.1.85', 3563) <--- i_frame M_ME_NC_1 with {'SQ': 0, 'COT': 20, 'NoO': 22, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 224000, 'FPNumber': 16.2}, {'QDS': <QDS  |>, 'IOA': 5073664, 'FPNumber': 15.9}, {'QDS': <QDS  |>, 'IOA': 5139200, 'FPNumber': 512.1}, {'QDS': <QDS  |>, 'IOA': 5204736, 'FPNumber': 433.4}, {'QDS': <QDS  |>, 'IOA': 5925632, 'FPNumber': 344.4}, {'QDS': <QDS  |>, 'IOA': 8547072, 'FPNumber': -0.44013}, {'QDS': <QDS  |>, 'IOA': 8612608, 'FPNumber': 43.0}, {'QDS': <QDS  |>, 'IOA': 8678144, 'FPNumber': 41.2}, {'QDS': <QDS  |>, 'IOA': 9267968, 'FPNumber': 12.1}, {'QDS': <QDS  |>, 'IOA': 13134592, 'FPNumber': 91}, {'QDS': <QDS  |>, 'IOA': 13200128, 'FPNumber': 98.8}, {'QDS': <QDS  |>, 'IOA': 13265664, 'FPNumber': 110}, {'QDS': <QDS  |>, 'IOA': 13331200, 'FPNumber': 85.1}, {'QDS': <QDS  |>, 'IOA': 13396736, 'FPNumber': 85.2}, {'QDS': <QDS  |>, 'IOA': 13462272, 'FPNumber': 410}, {'QDS': <QDS  |>, 'IOA': 13527808, 'FPNumber': 592}, {'QDS': <QDS  |>, 'IOA': 13593344, 'FPNumber': 1.5}, {'QDS': <QDS  |>, 'IOA': 13658880, 'FPNumber': 44.7}, {'QDS': <QDS  |>, 'IOA': 13724416, 'FPNumber': 11.9}, {'QDS': <QDS  |>, 'IOA': 13789952, 'FPNumber': 221.45}, {'QDS': <QDS  |>, 'IOA': 13855488, 'FPNumber': 13.4}, {'QDS': <QDS  |>, 'IOA': 13921024, 'FPNumber': 0.000402}]  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,476 ('65.49.1.85', 3563) <--- i_frame C_IC_NA_1 with {'COT': 10, 'COA': 7720} Objects=[{'QOI': 20}]  (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:00,545 IEC104 Station disconnected. (4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66)
+2024-11-30 17:05:16,562 Session timed out: ba9df28f-f80a-421b-8510-a0ed2e2d2f2f
+2024-11-30 17:05:32,580 Session timed out: 4a9333f4-f093-4ca6-b4dd-ac85ab6a3c66
+2024-11-30 18:22:42,470 New snmp session from 198.235.24.10 (3ddeb63c-c771-45fb-9969-fb3fbc0a6133)
+2024-11-30 18:22:42,474 SNMPv2 GetNext request from ('198.235.24.10', 53287): 1.3.6.1.2.1 
+2024-11-30 18:22:42,474 SNMPv2 GetNext response to ('198.235.24.10', 53287): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-30 18:23:11,409 New snmp session from 209.156.114.2 (e79900d6-8580-4b46-811d-864ae7ec7117)
+2024-11-30 18:23:11,411 SNMPv1 GetNext request from ('209.156.114.2', 50506): 1.3.6.1.2.1.1.2 
+2024-11-30 18:23:11,412 SNMPv1 GetNext response to ('209.156.114.2', 50506): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-30 18:23:13,039 SNMPv1 GetNext request from ('209.156.114.2', 54478): 1.3.6.1.2.1.1.2 
+2024-11-30 18:23:13,039 SNMPv1 GetNext response to ('209.156.114.2', 54478): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-30 18:23:13,162 SNMPv1 GetNext request from ('209.156.114.2', 54479): 1.3.6.1.2.1.2.2.1.6 
+2024-11-30 18:23:13,163 SNMPv1 GetNext response to ('209.156.114.2', 54479): 1.3.6.1.2.1.2.2.1.6.1 )Å
+2024-11-30 18:23:13,337 SNMPv1 GetNext request from ('209.156.114.2', 54480): 1.3.6.1.2.1.2.2.1.6.1 
+2024-11-30 18:23:13,337 SNMPv1 GetNext response to ('209.156.114.2', 54480): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-30 18:23:13,439 SNMPv1 GetNext request from ('209.156.114.2', 54481): 1.3.6.1.2.1.2.2.1.6.2 
+2024-11-30 18:23:13,439 SNMPv1 GetNext response to ('209.156.114.2', 54481): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-30 18:23:13,622 SNMPv1 GetNext request from ('209.156.114.2', 54482): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-30 18:23:13,622 SNMPv1 GetNext response to ('209.156.114.2', 54482): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-30 18:23:13,744 SNMPv1 GetNext request from ('209.156.114.2', 54483): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-30 18:23:13,744 SNMPv1 GetNext response to ('209.156.114.2', 54483): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-30 18:23:15,747 Session timed out: 3ddeb63c-c771-45fb-9969-fb3fbc0a6133
+2024-11-30 18:23:45,776 Session timed out: e79900d6-8580-4b46-811d-864ae7ec7117
+2024-11-30 19:12:08,659 SNMP Exception: This class is not converted to new architecture
+2024-11-30 19:17:45,786 New snmp session from 35.194.175.220 (313e6e9a-f66a-4b70-89c6-d3da7c494328)
+2024-11-30 19:17:45,788 SNMPv1 Get request from ('35.194.175.220', 50071): 1.3.6.1.2.1.1.1.0 
+2024-11-30 19:17:45,788 SNMPv1 Get response to ('35.194.175.220', 50071): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-30 19:18:15,817 Session timed out: 313e6e9a-f66a-4b70-89c6-d3da7c494328
+2024-11-30 19:24:47,833 New snmp session from 129.222.248.237 (ca848416-a40b-47fc-9cb3-9c2072eb7c9d)
+2024-11-30 19:24:47,835 SNMPv1 GetNext request from ('129.222.248.237', 65308): 1.3.6.1.2.1.1.2 
+2024-11-30 19:24:47,835 SNMPv1 GetNext response to ('129.222.248.237', 65308): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-30 19:24:48,727 SNMPv1 GetNext request from ('129.222.248.237', 6585): 1.3.6.1.2.1.1.2 
+2024-11-30 19:24:48,728 SNMPv1 GetNext response to ('129.222.248.237', 6585): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-30 19:24:48,901 SNMPv1 GetNext request from ('129.222.248.237', 60421): 1.3.6.1.2.1.2.2.1.6 
+2024-11-30 19:24:48,901 SNMPv1 GetNext response to ('129.222.248.237', 60421): 1.3.6.1.2.1.2.2.1.6.1 )Å
+2024-11-30 19:24:49,130 SNMPv1 GetNext request from ('129.222.248.237', 9742): 1.3.6.1.2.1.2.2.1.6.1 
+2024-11-30 19:24:49,130 SNMPv1 GetNext response to ('129.222.248.237', 9742): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-30 19:24:49,365 SNMPv1 GetNext request from ('129.222.248.237', 58520): 1.3.6.1.2.1.2.2.1.6.2 
+2024-11-30 19:24:49,365 SNMPv1 GetNext response to ('129.222.248.237', 58520): 1.3.6.1.2.1.2.2.1.7.1 1
+2024-11-30 19:24:49,633 SNMPv1 GetNext request from ('129.222.248.237', 62256): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-30 19:24:49,633 SNMPv1 GetNext response to ('129.222.248.237', 62256): 1.3.6.1.4.1.18334.1.1.2.1.5.2.1.1.3 
+2024-11-30 19:24:49,789 SNMPv1 GetNext request from ('129.222.248.237', 40037): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-30 19:24:49,789 SNMPv1 GetNext response to ('129.222.248.237', 40037): 1.3.6.1.4.1.297.2.1.1.1.1.2.8 
+2024-11-30 19:25:19,823 Session timed out: ca848416-a40b-47fc-9cb3-9c2072eb7c9d
+2024-11-30 19:26:12,064 New snmp session from 47.251.33.142 (37605dc4-5320-477f-8411-9ceb01202630)
+2024-11-30 19:26:12,065 SNMPv1 Get request from ('47.251.33.142', 52017): 1.3.6.1.2.1.1.1.0 
+2024-11-30 19:26:12,065 SNMPv1 Get response to ('47.251.33.142', 52017): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-30 19:26:12,275 SNMPv2 Get request from ('47.251.33.142', 42090): 1.3.6.1.2.1.1.1.0 
+2024-11-30 19:26:12,275 SNMPv2 Get response to ('47.251.33.142', 42090): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-30 19:26:44,306 Session timed out: 37605dc4-5320-477f-8411-9ceb01202630
+2024-11-30 19:59:18,561 New snmp session from 205.210.31.250 (1a1999e8-f956-4fed-8be9-79bd4d01f333)
+2024-11-30 19:59:18,564 SNMPv2 GetNext request from ('205.210.31.250', 55358): 1.3.6.1.2.1 
+2024-11-30 19:59:18,564 SNMPv2 GetNext response to ('205.210.31.250', 55358): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-30 19:59:48,595 Session timed out: 1a1999e8-f956-4fed-8be9-79bd4d01f333
+2024-11-30 20:37:04,258 New snmp session from 199.45.155.105 (3715d39b-99a1-4be9-8e33-57de8f48eafe)
+2024-11-30 20:37:04,262 SNMPv1 Get request from ('199.45.155.105', 37376): 1.3.6.1.2.1.1.1.0 
+2024-11-30 20:37:04,263 SNMPv1 Get response to ('199.45.155.105', 37376): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-30 20:37:04,645 SNMPv1 Get request from ('199.45.155.105', 37376): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-30 20:37:04,647 SNMPv1 Get response to ('199.45.155.105', 37376): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-30 20:37:05,019 SNMPv1 Get request from ('199.45.155.105', 37376): 1.3.6.1.2.1.2.1.0 
+2024-11-30 20:37:05,019 SNMPv1 Get response to ('199.45.155.105', 37376): 1.3.6.1.2.1.2.1.0 1
+2024-11-30 20:37:06,479 SNMPv2 Get request from ('199.45.155.105', 37376): 1.3.6.1.2.1.1.1.0 
+2024-11-30 20:37:06,479 SNMPv2 Get response to ('199.45.155.105', 37376): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-11-30 20:37:06,902 SNMPv2 Get request from ('199.45.155.105', 37376): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-30 20:37:06,904 SNMPv2 Get response to ('199.45.155.105', 37376): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2024-11-30 20:37:07,256 SNMPv2 Get request from ('199.45.155.105', 37376): 1.3.6.1.2.1.2.1.0 
+2024-11-30 20:37:07,258 SNMPv2 Get response to ('199.45.155.105', 37376): 1.3.6.1.2.1.2.1.0 1
+2024-11-30 20:37:37,296 Session timed out: 3715d39b-99a1-4be9-8e33-57de8f48eafe
+2024-11-30 22:14:41,518 SNMP Exception: This class is not converted to new architecture
+2024-11-30 23:51:07,806 New snmp session from 209.156.114.2 (3f5f8bf2-f15e-43d3-b830-09fa12d3a246)
+2024-11-30 23:51:07,937 SNMPv1 GetNext request from ('209.156.114.2', 50506): 1.3.6.1.2.1.1.2 
+2024-11-30 23:51:07,937 SNMPv1 GetNext response to ('209.156.114.2', 50506): 1.3.6.1.2.1.1.2.0 0.0
+2024-11-30 23:51:38,233 Session timed out: 3f5f8bf2-f15e-43d3-b830-09fa12d3a246
+2024-12-01 00:39:11,410 New IEC104 session from 45.79.128.205 (37b93199-8d82-46d2-a4a1-c9d9cfad95dc)
+2024-12-01 00:39:11,421 New IEC 104 connection from 45.79.128.205:58064. (37b93199-8d82-46d2-a4a1-c9d9cfad95dc)
+2024-12-01 00:39:31,430 ('45.79.128.205', 58064) <--- u_frame 0x68 0x4 0x43 0x0 0x0 0x0  (37b93199-8d82-46d2-a4a1-c9d9cfad95dc)
+2024-12-01 00:39:31,506 IEC104 Station disconnected. (37b93199-8d82-46d2-a4a1-c9d9cfad95dc)
+2024-12-01 00:40:03,581 Session timed out: 37b93199-8d82-46d2-a4a1-c9d9cfad95dc
+2024-12-01 00:52:01,132 New snmp session from 129.222.248.237 (ed935373-79f6-4f69-a438-9b97c15a7a3c)
+2024-12-01 00:52:01,163 SNMPv1 GetNext request from ('129.222.248.237', 59408): 1.3.6.1.2.1.1.2 
+2024-12-01 00:52:01,163 SNMPv1 GetNext response to ('129.222.248.237', 59408): 1.3.6.1.2.1.1.2.0 0.0
+2024-12-01 00:52:31,377 Session timed out: ed935373-79f6-4f69-a438-9b97c15a7a3c
+2024-12-01 01:01:08,287 New IEC104 session from 69.164.217.245 (a4ce7894-f65d-49dd-9f56-687549995306)
+2024-12-01 01:01:08,295 New IEC 104 connection from 69.164.217.245:54559. (a4ce7894-f65d-49dd-9f56-687549995306)
+2024-12-01 01:01:19,051 New IEC 104 connection from 69.164.217.245:54560. (a4ce7894-f65d-49dd-9f56-687549995306)
+2024-12-01 01:01:49,140 Session timed out: a4ce7894-f65d-49dd-9f56-687549995306
+2024-12-01 01:52:57,222 SNMP Exception: This class is not converted to new architecture
+2024-12-01 02:47:01,747 New snmp session from 115.231.78.11 (a32bb31a-7fc4-4d82-9432-44c9ea8d5187)
+2024-12-01 02:47:14,397 SNMPv1 GetNext request from ('115.231.78.11', 45179): 1.3.6.1.2.1 
+2024-12-01 02:47:32,747 SNMPv1 GetNext response to ('115.231.78.11', 45179): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2024-12-01 02:48:37,688 Session timed out: a32bb31a-7fc4-4d82-9432-44c9ea8d5187
+2024-12-01 02:55:11,499 New IEC104 session from 205.210.31.3 (648f5f9e-cc60-4103-9ad0-336ec02db8b4)
+2024-12-01 02:55:35,242 New IEC 104 connection from 205.210.31.3:65130. (648f5f9e-cc60-4103-9ad0-336ec02db8b4)
+2024-12-01 02:56:09,644 ('205.210.31.3', 65130) ---> u_frame. TESTFR act. (648f5f9e-cc60-4103-9ad0-336ec02db8b4)
+2024-12-01 02:56:35,738 ('205.210.31.3', 65130) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (648f5f9e-cc60-4103-9ad0-336ec02db8b4)
+2024-12-01 02:57:43,638 Session timed out: 648f5f9e-cc60-4103-9ad0-336ec02db8b4
+2024-12-01 02:58:23,491 New IEC104 session from 205.210.31.3 (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 02:58:57,041 New IEC 104 connection from 205.210.31.3:60460. (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 02:59:59,041 ('205.210.31.3', 60460) ---> u_frame. TESTFR act. (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 03:00:33,649 ('205.210.31.3', 60460) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 03:01:02,192 New IEC 104 connection from 205.210.31.3:65212. (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 03:01:22,087 ('205.210.31.3', 65212) ---> u_frame. TESTFR act. (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 03:01:49,448 ('205.210.31.3', 65212) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 03:02:12,796 New IEC 104 connection from 205.210.31.3:65160. (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 03:02:41,153 ('205.210.31.3', 65160) ---> u_frame. TESTFR act. (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 03:03:02,353 ('205.210.31.3', 65160) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (dce53051-959f-4856-9fef-c3483f1cdca8)
+2024-12-01 03:04:03,243 Session timed out: dce53051-959f-4856-9fef-c3483f1cdca8
+2024-12-01 04:27:09,277 New snmp session from 206.168.35.120 (4257e1bf-3f93-4705-9e0b-fe4af73bc503)
+2024-12-01 04:31:04,667 SNMPv2 Get request from ('206.168.35.120', 60904): 1.3.6.1.2.1.1.5.0 
+2024-12-01 04:34:16,420 SNMPv2 Get response to ('206.168.35.120', 60904): 1.3.6.1.2.1.1.5.0 
+2024-12-01 05:32:23,542 Session timed out: 4257e1bf-3f93-4705-9e0b-fe4af73bc503
+2024-12-01 05:39:04,494 New IEC104 session from 199.45.155.102 (c42efef5-5043-4745-bb15-cdf35b7c6eb8)
+2024-12-01 05:48:27,149 New IEC 104 connection from 199.45.155.102:52758. (c42efef5-5043-4745-bb15-cdf35b7c6eb8)
+2024-12-01 05:57:55,300 ('199.45.155.102', 52758) ---> u_frame. STARTDT act. (c42efef5-5043-4745-bb15-cdf35b7c6eb8)
+2024-12-01 06:06:43,950 ('199.45.155.102', 52758) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (c42efef5-5043-4745-bb15-cdf35b7c6eb8)
+2024-12-01 06:21:20,568 New IEC 104 connection from 199.45.155.102:58328. (c42efef5-5043-4745-bb15-cdf35b7c6eb8)
+2024-12-01 06:32:14,219 New IEC 104 connection from 199.45.155.102:57844. (c42efef5-5043-4745-bb15-cdf35b7c6eb8)
+2024-12-01 06:55:51,288 New IEC 104 connection from 199.45.155.102:57916. (c42efef5-5043-4745-bb15-cdf35b7c6eb8)
+2024-12-01 07:02:53,230 New IEC 104 connection from 199.45.155.102:44302. (c42efef5-5043-4745-bb15-cdf35b7c6eb8)
+2024-12-01 07:06:36,083 New IEC104 session from 172.169.111.76 (d170f9ed-f20b-486c-a5c7-b998e43a951b)
+2024-12-01 07:14:43,085 New IEC 104 connection from 172.169.111.76:40386. (d170f9ed-f20b-486c-a5c7-b998e43a951b)
+2024-12-01 07:26:51,689 IEC104 Station disconnected. (d170f9ed-f20b-486c-a5c7-b998e43a951b)
+2024-12-01 08:12:45,002 Session timed out: c42efef5-5043-4745-bb15-cdf35b7c6eb8
+2024-12-01 08:45:46,459 SNMP Exception: This class is not converted to new architecture
+2024-12-01 16:26:19,575 Config file found!
+2024-12-01 16:26:19,606 Starting Conpot using template: /usr/lib/python3.11/site-packages/conpot/templates/IEC104
+2024-12-01 16:26:19,606 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2024-12-01 16:26:20,202 Serving tar:///usr/lib/python3.11/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2024-12-01 16:26:20,216 Opening path /tmp/conpot for persistent storage of files.
+2024-12-01 16:26:20,217 Initializing Virtual File System at /tmp/conpot/__conpot__47pwkaik. Source specified : tar:///usr/lib/python3.11/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2024-12-01 16:26:20,540 Fetched 172.179.243.167 as external ip.
+2024-12-01 16:26:20,613 IEC 104 Server up
+2024-12-01 16:26:20,624 Found and enabled IEC104 protocol.
+2024-12-01 16:26:20,651 Found and enabled snmp protocol.
+2024-12-01 16:26:20,658 No proxy template found. Service will remain unconfigured/stopped.
+2024-12-01 16:26:20,659 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2024-12-01 16:26:24,361 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2024-12-01 16:26:31,106 SNMP server started on: ('0.0.0.0', 161)

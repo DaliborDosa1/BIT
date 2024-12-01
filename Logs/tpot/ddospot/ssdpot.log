@@ -1,0 +1,137 @@
+Full blacklist written: 0 scanners/attackers detected
+Weekly blacklist written: 0 scanners/attackers detected
+Daily blacklist written: 0 scanners/attackers detected
+Restored previous DB state - 0 unique IPs loaded
+SSDPot started at 0.0.0.0:1900
+{"time": "2024-11-24 00:37:00.698149", "src_ip": "146.88.241.151", "src_port": 1901, "st": "upnp:rootdevice", "mx": "3", "req_size": 99, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg0K"}
+{"time": "2024-11-24 01:34:54.066620", "src_ip": "198.235.24.68", "src_port": 49473, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+206.168.35.171:62896 - MX header not specified
+95.214.27.39:40157 - Invalid command specified: None
+{"time": "2024-11-24 03:28:07.736517", "src_ip": "198.235.24.32", "src_port": 52812, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+ssdp received shutdown signal, exiting...
+DB logger received shutdown signal, exiting...
+Blacklist scheduler received shutdown signal, exiting...
+Database flush scheduler received shutdown signal, exiting...
+Full blacklist written: 3 scanners/attackers detected
+Weekly blacklist written: 3 scanners/attackers detected
+Daily blacklist written: 3 scanners/attackers detected
+Restored previous DB state - 3 unique IPs loaded
+SSDPot started at 0.0.0.0:1900
+{"time": "2024-11-24 06:09:55.947380", "src_ip": "8.222.189.128", "src_port": 43767, "st": "urn:schemas-upnp-org:device:InternetGatewayDevice:1", "mx": "2", "req_size": 137, "resp_size": 0, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSE9TVDogMjM5LjI1NS4yNTUuMjUwOjE5MDANClNUOiB1cm46c2NoZW1hcy11cG5wLW9yZzpkZXZpY2U6SW50ZXJuZXRHYXRld2F5RGV2aWNlOjENCk1BTjogInNzZHA6ZGlzY292ZXIiDQpNWDogMg0KDSw="}
+95.214.27.39:45011 - Invalid command specified: None
+45.116.78.216:55873 - Invalid command specified: None
+45.81.23.35:60920 - MX header not specified
+95.214.27.39:58739 - Invalid command specified: None
+{"time": "2024-11-24 11:33:30.250826", "src_ip": "87.236.176.132", "src_port": 23247, "st": "ssdp:all", "mx": "3", "req_size": 90, "resp_size": 712, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSE9TVDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6c3NkcDphbGwNCk1BTjoic3NkcDpkaXNjb3ZlciINCk1YOjMNCg0K"}
+{"time": "2024-11-24 11:51:37.109786", "src_ip": "147.185.133.132", "src_port": 52994, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+{"time": "2024-11-24 12:01:10.859015", "src_ip": "146.88.241.41", "src_port": 1901, "st": "upnp:rootdevice", "mx": "3", "req_size": 99, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg0K"}
+103.192.199.60:3124 - Invalid command specified: None
+Full blacklist written: 7 scanners/attackers detected
+Weekly blacklist written: 7 scanners/attackers detected
+Daily blacklist written: 7 scanners/attackers detected
+Full blacklist written: 7 scanners/attackers detected
+Weekly blacklist written: 7 scanners/attackers detected
+Daily blacklist written: 7 scanners/attackers detected
+185.17.2.222:8000 - Invalid command specified: None
+{"time": "2024-11-24 14:54:39.114298", "src_ip": "65.49.20.71", "src_port": 37924, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+95.214.27.39:15985 - Invalid command specified: None
+{"time": "2024-11-24 16:54:13.606509", "src_ip": "185.94.111.1", "src_port": 42210, "st": "ssdp:all", "mx": "3", "req_size": 94, "resp_size": 712, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDogMjM5LjI1NS4yNTUuMjUwOjE5MDANCk1hbjogInNzZHA6ZGlzY292ZXIiDQpNWDogMw0KU1Q6IHNzZHA6YWxsDQoNCg=="}
+{"time": "2024-11-24 17:50:54.900237", "src_ip": "51.8.223.32", "src_port": 59411, "st": "upnp:rootdevice", "mx": "3", "req_size": 99, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg0K"}
+201.48.108.11:8081 - Invalid command specified: None
+176.120.74.223:8083 - Invalid command specified: None
+95.214.27.39:64920 - Invalid command specified: None
+{"time": "2024-11-24 21:10:43.649834", "src_ip": "103.147.45.2", "src_port": 58417, "st": "ssdp:all", "mx": "1", "req_size": 135, "resp_size": 712, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSE9TVDogMjM5LjI1NS4yNTUuMjUwOjE5MDANCk1BTjogInNzZHA6ZGlzY292ZXIiDQpNWDogMQ0KU1Q6IHNzZHA6YWxsDQpVU0VSLUFHRU5UOiB1bml4LzEuMCBVUG5QLzEuMSBtYXNzY2FuLzEueA0K"}
+5.100.249.24:12150 - Invalid command specified: None
+{"time": "2024-11-25 06:29:15.621666", "src_ip": "170.39.195.34", "src_port": 48708, "st": "upnp:rootdevice", "mx": "3", "req_size": 93, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDoz"}
+{"time": "2024-11-25 06:29:15.623426", "src_ip": "205.210.31.73", "src_port": 49508, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+95.214.27.39:54989 - Invalid command specified: None
+195.133.64.100:6009 - Invalid command specified: None
+109.120.140.213:52579 - Invalid command specified: None
+95.214.27.39:21697 - Invalid command specified: None
+91.121.6.105:8082 - Invalid command specified: None
+Full blacklist written: 13 scanners/attackers detected
+Weekly blacklist written: 13 scanners/attackers detected
+Daily blacklist written: 9 scanners/attackers detected
+Restored previous DB state - 13 unique IPs loaded
+SSDPot started at 0.0.0.0:1900
+87.120.114.52:12391 - Invalid command specified: None
+{"time": "2024-11-25 07:52:23.350168", "src_ip": "198.235.24.34", "src_port": 50630, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+{"time": "2024-11-25 07:55:36.921422", "src_ip": "162.216.149.140", "src_port": 52797, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+206.168.35.138:6435 - MX header not specified
+95.214.27.39:64706 - Invalid command specified: None
+{"time": "2024-11-25 08:45:47.637727", "src_ip": "184.105.247.244", "src_port": 60362, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+14.116.195.115:15906 - Invalid command specified: None
+89.248.167.150:49196 - MX header not specified
+95.214.27.39:39851 - Invalid command specified: None
+103.116.52.225:1027 - Invalid command specified: None
+Full blacklist written: 16 scanners/attackers detected
+Weekly blacklist written: 16 scanners/attackers detected
+Daily blacklist written: 9 scanners/attackers detected
+103.69.226.154:5353 - Invalid command specified: None
+{"time": "2024-11-25 15:26:40.127746", "src_ip": "71.6.146.130", "src_port": 25195, "st": "upnp:rootdevice", "mx": "3", "req_size": 95, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQo="}
+{"time": "2024-11-25 16:02:19.685724", "src_ip": "71.6.146.130", "src_port": 35887, "st": "upnp:rootdevice", "mx": "3", "req_size": 95, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQo="}
+95.214.27.39:42670 - Invalid command specified: None
+167.172.28.13:8081 - Invalid command specified: None
+{"time": "2024-11-25 21:31:25.401203", "src_ip": "91.199.118.151", "src_port": 43845, "st": "upnp:rootdevice", "mx": "3", "req_size": 93, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDoz"}
+47.237.27.243:56604 - Invalid command specified: None
+95.214.27.39:45873 - Invalid command specified: None
+162.142.125.81:47674 - MX header not specified
+{"time": "2024-11-26 01:21:59.894836", "src_ip": "103.147.45.2", "src_port": 44817, "st": "ssdp:all", "mx": "1", "req_size": 135, "resp_size": 712, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSE9TVDogMjM5LjI1NS4yNTUuMjUwOjE5MDANCk1BTjogInNzZHA6ZGlzY292ZXIiDQpNWDogMQ0KU1Q6IHNzZHA6YWxsDQpVU0VSLUFHRU5UOiB1bml4LzEuMCBVUG5QLzEuMSBtYXNzY2FuLzEueA0K"}
+206.168.35.28:3980 - MX header not specified
+95.214.27.39:15429 - Invalid command specified: None
+206.168.34.168:21058 - MX header not specified
+95.214.27.39:35015 - Invalid command specified: None
+{"time": "2024-11-26 08:12:45.122565", "src_ip": "198.235.24.85", "src_port": 53791, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+Full blacklist written: 19 scanners/attackers detected
+Weekly blacklist written: 19 scanners/attackers detected
+Daily blacklist written: 5 scanners/attackers detected
+Restored previous DB state - 19 unique IPs loaded
+SSDPot started at 0.0.0.0:1900
+95.214.27.39:51162 - Invalid command specified: None
+199.45.154.179:16235 - MX header not specified
+80.76.51.249:38562 - Invalid command specified: None
+{"time": "2024-11-26 09:24:01.958243", "src_ip": "198.235.24.140", "src_port": 49250, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+80.76.51.249:25993 - Invalid command specified: None
+{"time": "2024-11-26 09:49:29.628134", "src_ip": "64.62.197.171", "src_port": 53253, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+{"time": "2024-11-26 12:07:21.958339", "src_ip": "146.88.241.210", "src_port": 1901, "st": "upnp:rootdevice", "mx": "3", "req_size": 99, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg0K"}
+95.214.27.39:43340 - Invalid command specified: None
+64.23.235.210:1900 - Invalid command specified: None
+{"time": "2024-11-26 13:56:41.122043", "src_ip": "35.203.210.219", "src_port": 49448, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+Full blacklist written: 23 scanners/attackers detected
+Full blacklist written: 23 scanners/attackers detected
+Weekly blacklist written: 23 scanners/attackers detected
+Daily blacklist written: 8 scanners/attackers detected
+Weekly blacklist written: 23 scanners/attackers detected
+Daily blacklist written: 8 scanners/attackers detected
+{"time": "2024-11-26 15:26:11.655978", "src_ip": "185.180.141.37", "src_port": 38602, "st": "upnp:rootdevice", "mx": "1", "req_size": 99, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDoxDQoNCg0K"}
+{"time": "2024-11-26 15:26:31.301358", "src_ip": "185.180.141.39", "src_port": 51665, "st": "upnp:rootdevice", "mx": "1", "req_size": 99, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDoxDQoNCg0K"}
+{"time": "2024-11-26 15:35:56.253550", "src_ip": "47.251.72.122", "src_port": 21134, "st": "urn:schemas-upnp-org:device:InternetGatewayDevice:1", "mx": "2", "req_size": 137, "resp_size": 0, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSE9TVDogMjM5LjI1NS4yNTUuMjUwOjE5MDANClNUOiB1cm46c2NoZW1hcy11cG5wLW9yZzpkZXZpY2U6SW50ZXJuZXRHYXRld2F5RGV2aWNlOjENCk1BTjogInNzZHA6ZGlzY292ZXIiDQpNWDogMg0KDSw="}
+165.227.229.203:30301 - Invalid command specified: None
+47.245.125.90:60904 - Invalid command specified: None
+95.214.27.39:42800 - Invalid command specified: None
+47.236.202.149:8081 - Invalid command specified: None
+{"time": "2024-11-26 17:18:12.244040", "src_ip": "185.94.111.1", "src_port": 38499, "st": "ssdp:all", "mx": "3", "req_size": 94, "resp_size": 712, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDogMjM5LjI1NS4yNTUuMjUwOjE5MDANCk1hbjogInNzZHA6ZGlzY292ZXIiDQpNWDogMw0KU1Q6IHNzZHA6YWxsDQoNCg=="}
+Full blacklist written: 26 scanners/attackers detected
+Weekly blacklist written: 26 scanners/attackers detected
+Daily blacklist written: 0 scanners/attackers detected
+Restored previous DB state - 26 unique IPs loaded
+SSDPot started at 0.0.0.0:1900
+47.236.202.227:8081 - Invalid command specified: None
+95.214.27.39:31246 - Invalid command specified: None
+117.190.128.247:20838 - Invalid command specified: None
+95.214.27.39:40711 - Invalid command specified: None
+47.245.114.225:53739 - Invalid command specified: None
+206.168.35.26:3849 - MX header not specified
+{"time": "2024-11-30 20:30:59.011987", "src_ip": "103.147.45.2", "src_port": 56801, "st": "ssdp:all", "mx": "1", "req_size": 135, "resp_size": 712, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSE9TVDogMjM5LjI1NS4yNTUuMjUwOjE5MDANCk1BTjogInNzZHA6ZGlzY292ZXIiDQpNWDogMQ0KU1Q6IHNzZHA6YWxsDQpVU0VSLUFHRU5UOiB1bml4LzEuMCBVUG5QLzEuMSBtYXNzY2FuLzEueA0K"}
+{"time": "2024-11-30 22:25:05.004823", "src_ip": "147.185.133.129", "src_port": 56496, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+{"time": "2024-11-30 23:20:44.793244", "src_ip": "198.235.24.153", "src_port": 54901, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+95.214.27.39:41222 - Invalid command specified: None
+109.120.140.213:52579 - Invalid command specified: None
+{"time": "2024-12-01 01:21:42.963206", "src_ip": "147.185.132.207", "src_port": 53127, "st": "upnp:rootdevice", "mx": "3", "req_size": 97, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDozDQoNCg=="}
+95.214.27.39:8791 - Invalid command specified: None
+Full blacklist written: 29 scanners/attackers detected
+Weekly blacklist written: 21 scanners/attackers detected
+Daily blacklist written: 4 scanners/attackers detected
+Restored previous DB state - 29 unique IPs loaded
+SSDPot started at 0.0.0.0:1900
+{"time": "2024-12-01 16:58:58.895149", "src_ip": "91.199.118.151", "src_port": 46730, "st": "upnp:rootdevice", "mx": "3", "req_size": 93, "resp_size": 235, "req_pkt": "TS1TRUFSQ0ggKiBIVFRQLzEuMQ0KSG9zdDoyMzkuMjU1LjI1NS4yNTA6MTkwMA0KU1Q6dXBucDpyb290ZGV2aWNlDQpNYW46InNzZHA6ZGlzY292ZXIiDQpNWDoz"}

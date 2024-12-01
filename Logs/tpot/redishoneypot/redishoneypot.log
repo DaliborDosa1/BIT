@@ -1,0 +1,9 @@
+{"action":"NewConnect","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:05:56"}
+{"action":"info","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:05:56"}
+{"action":"CONFIG GET dbfilename","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:05:57"}
+{"action":"CONFIG GET dir","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:05:58"}
+{"action":"CONFIG SET dir /root/.ssh/","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:05:59"}
+{"action":"CONFIG SET dir /var/spool/cron/","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:06:00"}
+{"action":"CONFIG SET dbfilename dump.rdb","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:06:01"}
+{"action":"CONFIG SET dir /data","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:06:02"}
+{"action":"Closed","addr":"47.119.139.142:47992","level":"info","msg":"","time":"2024-12-01 17:06:03"}

@@ -1,0 +1,56 @@
+{"ID":"1732449560458218026","IP":"87.236.176.165","Port":"35233","level":"warning","msg":"Connection from","time":"2024-11-24 11:59:20"}
+{"ID":"1732449560458218026","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-24 11:59:24"}
+{"ID":"1732449560458218026","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-24 11:59:26"}
+{"ID":"1732450785268839261","IP":"199.45.155.84","Port":"39382","level":"warning","msg":"Connection from","time":"2024-11-24 12:19:45"}
+{"ID":"1732450785268839261","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-24 12:19:45"}
+{"ID":"1732450785268839261","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-24 12:20:01"}
+{"ID":"1732451350705781506","IP":"167.94.138.56","Port":"34478","level":"warning","msg":"Connection from","time":"2024-11-24 12:29:10"}
+{"ID":"1732451350705781506","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-24 12:29:11"}
+{"ID":"1732451350705781506","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-24 12:29:27"}
+{"ID":"1732470880150599349","IP":"35.203.210.143","Port":"60782","level":"warning","msg":"Connection from","time":"2024-11-24 17:54:40"}
+{"ID":"1732470880444840946","IP":"35.203.210.143","Port":"60798","level":"warning","msg":"Connection from","time":"2024-11-24 17:54:40"}
+{"ID":"1732470880150599349","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-24 17:54:50"}
+{"ID":"1732470880444840946","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-24 17:54:50"}
+{"ID":"1732474126176085465","IP":"162.142.125.200","Port":"38078","level":"warning","msg":"Connection from","time":"2024-11-24 18:48:46"}
+{"ID":"1732474126176085465","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-24 18:48:46"}
+{"ID":"1732474126176085465","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-24 18:49:01"}
+{"ID":"1732516150245200237","IP":"162.216.150.39","Port":"65528","level":"warning","msg":"Connection from","time":"2024-11-25 06:29:10"}
+{"ID":"1732516150244613181","IP":"162.216.150.39","Port":"65138","level":"warning","msg":"Connection from","time":"2024-11-25 06:29:10"}
+{"ID":"1732516150244613181","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-25 06:29:10"}
+{"ID":"1732516150245200237","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-25 06:29:10"}
+{"ID":"1732543051518882159","IP":"199.45.154.146","Port":"33982","level":"warning","msg":"Connection from","time":"2024-11-25 13:57:31"}
+{"ID":"1732543051518882159","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-25 13:57:31"}
+{"ID":"1732543051518882159","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-25 13:57:46"}
+{"ID":"1732545070688688823","IP":"206.168.34.124","Port":"38968","level":"warning","msg":"Connection from","time":"2024-11-25 14:31:10"}
+{"ID":"1732545070688688823","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-25 14:31:11"}
+{"ID":"1732545070688688823","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-25 14:31:26"}
+{"ID":"1732608759831471740","IP":"147.185.132.99","Port":"64510","level":"warning","msg":"Connection from","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759726497430","IP":"147.185.132.99","Port":"59228","level":"warning","msg":"Connection from","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759726497430","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759831471740","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759831471740","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759775662308","IP":"147.185.132.99","Port":"59708","level":"warning","msg":"Connection from","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759775662308","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759775662308","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759681073541","IP":"162.216.150.13","Port":"57930","level":"warning","msg":"Connection from","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759726497430","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759833355451","IP":"147.185.132.99","Port":"60570","level":"warning","msg":"Connection from","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759833355451","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759833355451","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759727781621","IP":"162.216.150.13","Port":"64918","level":"warning","msg":"Connection from","time":"2024-11-26 08:12:39"}
+{"ID":"1732608759727781621","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 08:12:49"}
+{"ID":"1732608759681073541","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 08:12:49"}
+{"ID":"1732618431349224162","IP":"167.94.145.107","Port":"33352","level":"warning","msg":"Connection from","time":"2024-11-26 10:53:51"}
+{"ID":"1732618431349224162","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-26 10:53:51"}
+{"ID":"1732618431349224162","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 10:54:06"}
+{"ID":"1732625546168961776","IP":"185.226.197.43","Port":"41205","level":"warning","msg":"Connection from","time":"2024-11-26 12:52:26"}
+{"ID":"1732625546168961776","Version":"OFFIS_DCMTK_360","level":"info","msg":"Client","time":"2024-11-26 12:52:26"}
+{"ID":"1732625546168961776","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 12:52:31"}
+{"ID":"1732633227683768944","IP":"206.168.34.209","Port":"54938","level":"warning","msg":"Connection from","time":"2024-11-26 15:00:27"}
+{"ID":"1732633227683768944","Version":"OFFIS_DCMTK_362","level":"info","msg":"Client","time":"2024-11-26 15:00:28"}
+{"ID":"1732633227683768944","Status":"Finished","level":"warning","msg":"Connection","time":"2024-11-26 15:00:42"}
+{"ID":"1732647640277116251","IP":"167.94.138.47","Port":"41956","level":"warning","msg":"Connection from","time":"2024-11-26 19:01:21"}
+{"ID":"1733014636250941105","IP":"35.203.211.54","Port":"58532","level":"warning","msg":"Connection from","time":"2024-12-01 00:57:16"}
+{"ID":"1733014636540948989","IP":"35.203.211.54","Port":"58540","level":"warning","msg":"Connection from","time":"2024-12-01 00:57:16"}
+{"ID":"1733014636250941105","Status":"Finished","level":"warning","msg":"Connection","time":"2024-12-01 00:57:26"}
+{"ID":"1733014636540948989","Status":"Finished","level":"warning","msg":"Connection","time":"2024-12-01 00:57:26"}
