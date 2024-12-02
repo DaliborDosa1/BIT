@@ -6,7 +6,7 @@ The goal of this project is to simulate a network containing multiple honeypots 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-For simulating virtual machines download VHD images (unfortunately it is big :( stupid azure export )
+For simulating virtual machines download VHD images  (unfortunately it is big :( stupid azure export )
 
 make network with 4 VMs:
 
@@ -15,17 +15,21 @@ make network with 4 VMs:
     - username: bit
     - password: bit123456 or bit1234567890!
     - for cowrie logs needed to switch users to user "cowrie"
-2. t-pot : (pribudne po prezentacii)
+
+2. t-pot : https://md-hdd-wtjbw1zrrsjx.z44.blob.storage.azure.net/zt3tlzcxnw5k/abcd?sv=2018-03-28&sr=b&si=31f08ef5-12d9-4503-9f4b-c7bbf058ca3e&sig=OEryyaCqLExvxTXcXrZ9wSaZduUVYeWoeWBs3sulDGQ%3D
     - ssh to real connection on 64295 port
     - dashboard on port 64297 (username: bit, password: bit123456)
     - username: bit
     - password: bit123456 or bit1234567890!
+
 2. mongoDB : https://md-hdd-wtjbw1zrrsjx.z44.blob.storage.azure.net/s00pq43fqv0s/abcd?sv=2018-03-28&sr=b&si=8b3b16c0-babd-4798-a359-f4992518d5d8&sig=24Qwt5MfGzOH6QppvEEIRryDVslY%2B%2FiaLflDI1EfXok%3D
     - username: bit
     - password: bit123456 or bit1234567890!
+    - In MongoDB-HoneyProxy directory start with node index.js (if there is error do nvm use 10)
 
 4. honeythings : https://md-ssd-bncbcpzn1g30.z7.blob.storage.azure.net/pm2w4drsnw2k/abcd?sv=2018-03-28&sr=b&si=745b4650-71cf-4a13-a3a1-106d3319fb7b&sig=og4LuzmCU5ajZl6jnO1i%2FS0RoSpMlqAy0sAQAXYdyd0%3D 
     - username: bit
     - password: Bit1234567890
+    - start with /etc/init.d/honeything {start|stop|restart|status}
 
 Have fun :)
